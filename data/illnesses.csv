@@ -1,0 +1,1001 @@
+ill_id,description,icd9
+1,Food pois d/t c. perfrin,0052
+2,Food pois: v. parahaem,0054
+3,Arizona enteritis,0081
+4,Bacterial enteritis NEC,00849
+5,Bacterial enteritis NOS,0085
+6,Prim TB complex-oth test,01006
+7,TB lung w cavit-micro dx,01123
+8,TB lung w cavit-histo dx,01125
+9,TB of bronchus-no exam,01131
+10,TB of bronchus-histo dx,01135
+11,TB of bronchus-oth test,01136
+12,TB pneumonia-exam unkn,01162
+13,TB thorax node-exam unkn,01212
+14,TB sp crd abscess-unspec,01350
+15,TB sp crd absc-no exam,01351
+16,TB peritonitis-unspec,01400
+17,TB of hip-histo dx,01515
+18,TB of joint NEC-unspec,01580
+19,TB of kidney-histo dx,01605
+20,TB fem gen NEC-cult dx,01674
+21,TB skin/subcutan-unspec,01700
+22,TB of thyroid-oth test,01756
+23,TB of adrenal-histo dx,01765
+24,TB of organ NEC-no exam,01791
+25,Miliary TB NEC-oth test,01886
+26,Anthrax septicemia,0223
+27,Brucella melitensis,0230
+28,Zoonotic bact dis NOS,0279
+29,Faucial diphtheria,0320
+30,Conjunctival diphtheria,03281
+31,Cutaneous diphtheria,03285
+32,Erysipelas,035
+33,Meningococc adrenal synd,0363
+34,H. influenae septicemia,03841
+35,Abdominal actinomycosis,0392
+36,Bacterial diseases NEC,04089
+37,Nonparalyt polio-type 2,04522
+38,Herpes zoster meningitis,0530
+39,Herpes zoster myelitis,05314
+40,Postmeasles encephalitis,0550
+41,Poxvirus infection NOS,0599
+42,West equine encephalitis,0621
+43,Mosquit-borne enceph NEC,0628
+44,Hpt B chrn coma w dlta,07023
+45,Hpt dlt wo b w hpt coma,07042
+46,Chrnc hpt C w hepat Coma,07044
+47,Herpangina,0740
+48,Coxsackie carditis NOS,07420
+49,Sweating fever,0782
+50,Louse-borne typhus,080
+51,Vivax malaria,0841
+52,Syphilitic uveitis NOS,09150
+53,Syphilitic parkinsonism,09482
+54,Syphilitic episcleritis,0950
+55,"Gc cervicitis, chronic",09835
+56,Oth VD chlm trch spcf st,09959
+57,"Gummata and ulcers, yaws",1024
+58,Candidal vulvovaginitis,1121
+59,Candidiasis site NOS,1129
+60,Progress coccidioid NEC,1143
+61,Histoplasm caps pericard,11503
+62,Aspergillosis,1173
+63,Fasciolopsiasis,1214
+64,Echinococc granul NEC,1223
+65,Diphyllobothrias intest,1234
+66,Sparganosis,1235
+67,Onchocerciasis,1253
+68,Multisystem toxoplasmos,1308
+69,Trichomonal vaginitis,13101
+70,Pediculus corporis,1321
+71,Infc free-liv amebae NEC,13629
+72,"Mal neo lip, inner NOS",1405
+73,Mal neo mouth vestibule,1451
+74,Malig neoplasm mouth NEC,1458
+75,Mal neo ant nasopharynx,1473
+76,Mal neo nasopharynx NOS,1479
+77,Mal neo waldeyer's ring,1491
+78,Malignant neopl duodenum,1520
+79,Malig neo biliary NEC,1568
+80,Mal neo pancreas head,1570
+81,Mal neo pancreatic duct,1573
+82,Mal neo skull/face bone,1700
+83,Mal neo long bones leg,1707
+84,Squam cell ca skn up lmb,17362
+85,Mal neo breast-central,1741
+86,Mal neo female genit NOS,1849
+87,Malign neopl retina,1905
+88,Mal neo lymph-head/neck,1960
+89,Mal neo lymph-inguin/leg,1965
+90,Secondary malig neo lung,1970
+91,Second malig neo ovary,1986
+92,Second malig neo adrenal,1987
+93,Margin zone lym thorax,20032
+94,Anaplastic lymph abdom,20063
+95,Large cell lymph axilla,20074
+96,Mycosis fungoides head,20211
+97,Mycosis fungoides inguin,20215
+98,Mycosis fungoides pelvic,20216
+99,Mal histiocytosis head,20231
+100,Hairy-cell leukem axilla,20244
+101,Mal mastocytosis abdom,20263
+102,Periph T cell lymph head,20271
+103,Lymphomas NEC inguin,20285
+104,Act lymp leuk in relapse,20402
+105,Oth lym leuk in relapse,20482
+106,Uns lym leu wo ach rmsn,20490
+107,Chr myl leuk w rmsion,20511
+108,Uns my leu wo ach rmsn,20590
+109,Chr mono leuk w rmsion,20611
+110,Sbac mno leu wo ach rmsn,20620
+111,Sbac mono leuk w rmsion,20621
+112,Oth mono leuk w rmsion,20681
+113,Ac erth/erlk wo ach rmsn,20700
+114,Chr erythrm w/o ach rmsn,20710
+115,Sbac leu uns cl-relapse,20822
+116,Leukemia NOS w remission,20891
+117,Mal crcnoid transv colon,20914
+118,Bengn carcinoid oth site,20969
+119,Benign neo resp sys NOS,2129
+120,Ben neo skull/face bone,2130
+121,Benign neo trunk NOS,2157
+122,Ben neo soft tissue NOS,2159
+123,Benign neoplasm skin NOS,2169
+124,Benign neoplasm ovary,220
+125,Benign neoplasm eyeball,2240
+126,Ben neo lacrimal duct,2247
+127,Benign neo carotid body,2275
+128,Ca in situ rectum,2304
+129,Ca in situ NEC,2348
+130,Unc behav neo paragang,2373
+131,Neurofibromatosis NOS,23770
+132,Plasmacytoma NOS,2386
+133,Myelodysplastic synd NOS,23875
+134,Brain neoplasm NOS,2396
+135,Neo retina/choroid NOS,23981
+136,Thyrtox orig NEC no cris,24280
+137,Thyrotox orig NEC w cris,24281
+138,Hemorr/infarc thyroid,2463
+139,DMI keto nt st uncntrld,25011
+140,Pituitary dwarfism,2533
+141,Cushing's syndrome,2550
+142,Corticoadren overact NEC,2553
+143,Postablat testic hypofun,2571
+144,Mult endo neoplas type I,25801
+145,Vit A def w corneal scar,2646
+146,Vit A ocular defic NEC,2647
+147,Vitamin b deficiency NOS,2669
+148,Vitamin Deficiency NOS,2692
+149,Uric acid nephrolithias,27411
+150,Hypercalcemia,27542
+151,Dis mineral metabol NOS,2759
+152,Hyposmolality,2761
+153,Primary carnitine defncy,27781
+154,Localized adiposity,2781
+155,Hypercarotinemia,2783
+156,Digeorge's syndrome,27911
+157,Glutathione dis anemia,2822
+158,"Thalassemia, unspecified",28240
+159,Thlasema Hb-S w/o crisis,28241
+160,Thalassemia NEC,28249
+161,Other pancytopenia,28419
+162,Cong factor IX disorder,2861
+163,Leukemoid reaction,28862
+164,Presenile depression,29013
+165,Psy dis w delus oth dis,29381
+166,Amnestic disord oth dis,2940
+167,Hebephrenia-unspec,29510
+168,Catatonia-subchronic,29521
+169,Schizoph dis resid-remis,29565
+170,Schizoafftv dis-chr/exac,29574
+171,Schizophrenia NOS-remiss,29595
+172,Recur manic dis-unspec,29610
+173,Recurr depr psychos-unsp,29630
+174,Rec depr psych-psychotic,29634
+175,Bipol I curnt manic-mild,29641
+176,Bipol I cur depress-mod,29652
+177,Atypical manic disorder,29681
+178,Episodic mood disord NEC,29699
+179,Anxiety state NOS,30000
+180,Phobia NOS,30020
+181,Alcoh dep NEC/NOS-remiss,30393
+182,Cocaine depend-unspec,30420
+183,Opioid/other dep-episod,30472
+184,"Sed,hyp,anxiolytc ab-NOS",30540
+185,"Sed,hyp,anxiolytc ab-epi",30542
+186,"Sed,hyp,anxiolytc ab-rem",30543
+187,Psychogenic dysmenorrhea,30652
+188,Sleep arousal disorder,30746
+189,"Stress react, emotional",3080
+190,Personality chg oth dis,3101
+191,Social conduct dis-mild,31221
+192,Pathological gambling,31231
+193,Reading disorder NOS,31500
+194,Speech/language dis NEC,31539
+195,Psychic factor w oth dis,316
+196,Pneumococcal meningitis,3201
+197,Cryptococcal meningitis,3210
+198,Enceph & encephlalo NEC,32381
+199,Myelitis cause NEC,32382
+200,Insomnia in other dis,32701
+201,Prim central sleep apnea,32721
+202,Orofacial dyskinesia,33382
+203,Spinocerebellar dis NOS,3349
+204,Progressive bulbar palsy,33522
+205,Carotid sinus syndrome,33701
+206,Acute pain NEC,33819
+207,Episdc paroxyml hemicran,33903
+208,Prim thnderclap headache,33943
+209,Comp headache synd NEC,33944
+210,Acute myelitis NOS,34120
+211,Prs ara w ntr wo inf/st,34651
+212,Dural tear NEC,34939
+213,Trigeminal nerve dis NEC,3508
+214,Sciatic nerve lesion,3550
+215,Lat popliteal nerve les,3553
+216,Neuropathy in diabetes,3572
+217,Alcoholic polyneuropathy,3575
+218,Chr inflam polyneuritis,35781
+219,Mysthna grvs w/o ac exac,35800
+220,Lambert-Eaton synd NOS,35830
+221,Myotonic musclr dystrphy,35921
+222,Inflm/immune myopath NEC,35979
+223,Myopathies NEC,35989
+224,"Old magnet fb, post wall",36055
+225,Foreign body in vitreous,36064
+226,Retinal defect NOS,36130
+227,Horseshoe tear of retina,36132
+228,"Retinoph prematr,stage 1",36223
+229,Retinoph prematr.stage 4,36226
+230,Retinal vasc occlus NOS,36230
+231,Macular cyst or hole,36254
+232,Macular puckering,36256
+233,Retinal disorders NEC,36289
+234,"Dissem choroiditis, post",36311
+235,Harada's disease,36322
+236,Choroidal detachment NOS,36370
+237,Serous choroid detachmnt,36371
+238,Primary iridocyclitis,36401
+239,Hypopyon,36405
+240,Glaucomatocyclit crises,36422
+241,Pupillary abnormalities,36475
+242,Intermit angl-clos glauc,36521
+243,Glaucoma w lens dis NEC,36559
+244,Glaucomatous flecks,36631
+245,Cataract w neovasculizat,36633
+246,Hypermetropia,3670
+247,Transient refract change,36781
+248,Refraction disorder NEC,36789
+249,Binocular vis suppress,36831
+250,Visual field defect NOS,36840
+251,Acq color deficiency,36855
+252,"Blindness, one eye",36960
+253,One eye-sev/oth-nr norm,36972
+254,One eye-mod/oth normal,36976
+255,Corneal ulcer NOS,37000
+256,Keratitis in exanthema,37044
+257,Corneal deposit NOS,37110
+258,Edema d/t contact lens,37124
+259,Juv epith cornea dystrph,37151
+260,Macular cornea dystrophy,37155
+261,Post cornea dystrphy NEC,37158
+262,Squamous blepharitis,37302
+263,Infect derm lid w deform,3734
+264,Cicatricial ectropion,37414
+265,Primary lacrimal atrophy,37513
+266,Secondary lacrim atrophy,37514
+267,Chronic canaliculitis,37541
+268,Dacryolith,37557
+269,Lacrimal syst dis NOS,3759
+270,Orbital granuloma,37611
+271,Thyrotoxic exophthalmos,37621
+272,Constant exophthalmos,37631
+273,Orbital hemorrhage,37632
+274,Orbital disorders NEC,37689
+275,Retrobulbar neuritis,37732
+276,Vis cortex dis w inflam,37773
+277,Alternating esotropia,37805
+278,Vertical heterophoria,37843
+279,Mechanical strabism NOS,37860
+280,Mech strab w oth conditn,37863
+281,Duane's syndrome,37871
+282,Anomalies of divergence,37885
+283,Tonic pupillary reaction,37946
+284,Inflam postproc bleb NOS,37960
+285,Chr inf otit externa NEC,38016
+286,Dis external ear NEC,38089
+287,Ac serous otitis media,38101
+288,Extrinsic eustach obstr,38163
+289,Acute petrositis,38321
+290,Postmastoid mucosal cyst,38331
+291,Adhesive mid ear dis NEC,38519
+292,Partial loss ear ossicle,38524
+293,Labyrinthitis NOS,38630
+294,Oval window fistula,38642
+295,Objective tinnitus,38832
+296,Diplacusis,38841
+297,Rheum fev w/o hrt involv,390
+298,Ac rheumat hrt dis NEC,3918
+299,Benign hyp ht dis w hf,40211
+300,Mal hyp ht/kd I-IV w hf,40401
+301,"AMI NEC, initial",41081
+302,Intermed coronary synd,4111
+303,Cor ath unsp vsl ntv/gft,41400
+304,Crn ath atlg vn bps grft,41402
+305,Chr pulmonary embolism,4162
+306,Endocarditis NEC,42499
+307,Atrial fibrillation,42731
+308,Ventricular fibrillation,42741
+309,Chr syst/diastl hrt fail,42842
+310,Hrt dis postcardiac surg,4294
+311,Intracranial hemorr NOS,4329
+312,Cerebrovasc disease NOS,4379
+313,Late eff CV-dysarthria,43813
+314,Late ef-hemplga dom side,43821
+315,Athscl extrm bps gft NOS,44030
+316,Atherosclerosis NEC,4408
+317,Thoracic aortic aneurysm,4412
+318,Aneurysm NOS,4429
+319,Erythromelalgia,44382
+320,Arterial embolism NEC,44489
+321,"Atheroembolism,lower ext",44502
+322,Hypersensit angiitis NOS,44620
+323,Abdominal aortic ectasia,44772
+324,Heredit hemorr telangiec,4480
+325,Femoral vein phlebitis,45111
+326,Ch DVT/embl dstl low ext,45352
+327,Noninfect lymph dis NOS,4579
+328,Venous insufficiency NOS,45981
+329,Deviated nasal septum,470
+330,Polyp of nasal cavity,4710
+331,Chr frontal sinusitis,4731
+332,Allergic rhinitis-food,4771
+333,Allergic rhinitis NOS,4779
+334,Disease of pharynx NOS,47820
+335,Vocal cord paralysis NOS,47830
+336,Staph pneumonia NEC,48249
+337,Pneumonia d/t chlamydia,4831
+338,Flu w resp manifest NEC,4871
+339,Bagassosis,4951
+340,Pneumoconiosis NOS,505
+341,Acute interstitial pneum,51633
+342,Other pulmonary insuff,51882
+343,Mediastinum disease NEC,5193
+344,Dental caries NOS,52100
+345,Excessive attrition NOS,52110
+346,Abrasion NOS,52120
+347,Erosion-dentine,52132
+348,Path resorption-external,52142
+349,Dis hard tiss teeth NEC,52189
+350,"Chronc gingititis,plaque",52310
+351,Unspcf anomaly jaw size,52400
+352,Dev open/close mandible,52453
+353,Nonwork side interfrnce,52456
+354,Alveolar maxil hyprplsia,52471
+355,Dentofacial anomaly NOS,5249
+356,Partial edentulism NOS,52550
+357,Leukoplakia oral mucosa,5286
+358,Geographic tongue,5291
+359,Chr stomach ulc w hem,53140
+360,Chr duoden ulcer w hem,53240
+361,Duodenal ulcer NOS,53290
+362,Atrph gastritis w hmrhg,53511
+363,Gstr/ddnts NOS w hmrhg,53551
+364,Recur bil ing hern-obstr,55013
+365,Diaphragm hernia w gangr,5513
+366,Rec bil fem hern w obstr,55203
+367,Recur unil femoral hern,55301
+368,Ventral hernia NOS,55320
+369,Reg enterit sm/lg intest,5552
+370,Ulcerative enterocolitis,5560
+371,Ulcertve prctosigmoidtis,5563
+372,Toxic gastroenteritis,5582
+373,Intussusception,5600
+374,Dvrtclo colon w/o hmrhg,56210
+375,Dvrtcli colon w hmrhg,56213
+376,Constipation NOS,56400
+377,Vomiting post-gi surgery,5643
+378,Peritoneal abscess,56722
+379,Rectal & anal ulcer,56941
+380,Anal or rectal pain,56942
+381,Anal sphincter tear-old,56943
+382,Alcoholic fatty liver,5710
+383,Chronic liver dis NEC,5718
+384,Hepatic encephalopathy,5722
+385,Gb cholesterolosis,5756
+386,Dis of biliary tract NEC,5768
+387,Gastrointest hemorr NOS,5789
+388,Chronic nephritis NEC,58289
+389,Renal osteodystrophy,5880
+390,Unilateral small kidney,5890
+391,Pyelonephritis NOS,59080
+392,Hydroureter,5935
+393,Cystitis cystica,59581
+394,Hypertonicity of bladder,59651
+395,Low bladder compliance,59652
+396,Urethral stricture NOS,5989
+397,Urin tract infection NOS,5990
+398,BPH NOS w/o ur obs/LUTS,60090
+399,"Impotence, organic orign",60784
+400,Atrophy of testis,6083
+401,Male gen dis in oth dis,60881
+402,Fibrosclerosis of breast,6103
+403,Hypertrophy of breast,6111
+404,Galactocele,6115
+405,Mastodynia,61171
+406,Ptosis of breast,61181
+407,Pelvic muscle wasting,61883
+408,Noninfl dis ova/adnx NEC,6208
+409,Ben endomet hyperplasia,62134
+410,Noninflam dis cervix NEC,6228
+411,Excessive menstruation,6262
+412,Menstrual disorder NEC,6268
+413,Premenopause menorrhagia,6270
+414,Genital muilatn type III,62923
+415,Eros imp vag mesh in tis,62931
+416,Rec preg loss wo cur prg,62981
+417,Inapp chg hCG early preg,6310
+418,Leg abor w pelv inf-unsp,63500
+419,Leg ab w compl NOS-inc,63581
+420,Illeg ab w pelv inf-inc,63601
+421,Illeg ab w hemorr-unspec,63610
+422,Illeg ab w embolism-inc,63661
+423,Ab NOS w pelv damag-inc,63721
+424,Ab NOS uncomplicat-comp,63792
+425,Attem abort w pelvic inf,6380
+426,Coag def hemorr-antepart,64133
+427,Eclampsia-delivered,64261
+428,Hyperten preg NOS-unspec,64290
+429,Hypertens NOS-antepartum,64293
+430,Late vomit preg-antepart,64323
+431,Thrt prem labor-antepart,64403
+432,Prolonged preg-unsp,64520
+433,Prolonged preg-antepar,64523
+434,Recurnt preg loss-antep,64633
+435,Asy bacteriuria-postpart,64654
+436,Gu infection-delivered,64661
+437,Syphilis-antepartum,64703
+438,Gonorrhea-antepartum,64713
+439,Oth virus in preg-unspec,64760
+440,Thyroid dysfun preg-unsp,64810
+441,Mental disorder-antepart,64843
+442,Congen CV dis-antepartum,64853
+443,Abn glucose-deliv w p/p,64882
+444,Oth curr cond preg-unsp,64890
+445,Epilepsy-delivered,64941
+446,Spotting-unspecified,64950
+447,Uterine size-del w p/p,64962
+448,Cervical shortening-ante,64973
+449,Twin pregnancy-unspec,65100
+450,Triplet pregnancy-deliv,65111
+451,Quadruplet preg-unspec,65120
+452,Uterine tumor-delivered,65411
+453,Cervical incompet-deliv,65451
+454,Dec fetal movmt antepart,65573
+455,Fetal abnorm NEC-deliver,65581
+456,Fetal abnorm NOS-unspec,65590
+457,Fetal abnorm NOS-deliver,65591
+458,Fetal-matern hem-antepar,65603
+459,Amniotic infection-deliv,65841
+460,Amniotic infect-antepart,65843
+461,Bony pelv obstruc-unspec,66010
+462,Bony pelv obstruc-antepa,66013
+463,Obstruc labor NOS-unspec,66090
+464,Sec uterine inert-antepa,66113
+465,Prolong labor NOS-antepa,66213
+466,Delay del 2 twin-antepar,66233
+467,Cord entangl NEC-antepar,66333
+468,Cord complicat NEC-deliv,66381
+469,Cord complicat NOS-unsp,66390
+470,Del w 2 deg lacerat-unsp,66410
+471,Ob perineal lac NOS-unsp,66440
+472,Ob perineal trau NOS-del,66491
+473,High vaginal lacer-unsp,66540
+474,Ob trauma NOS-unspec,66590
+475,Ob trauma NOS-del w p/p,66592
+476,Pulm compl in del-deliv,66801
+477,Pulm complic-del w p/p,66802
+478,Pulm complicat-antepart,66803
+479,Anesth compl-postpartum,66884
+480,Obstet shock-deliv w p/p,66912
+481,Ac kidney fail-postpart,66934
+482,Complc ob surg anteprtm,66943
+483,Compl del NOS-del w p/p,66992
+484,Varic vulva preg-unspec,67110
+485,Ven compl preg NOS-unsp,67190
+486,Puerp pyrexia-del w p/p,67202
+487,Pulm embol NOS-delivered,67321
+488,Pulm embol NOS-postpart,67324
+489,Ob surg compl NEC-unspec,67430
+490,Breast inf NOS-del w p/p,67592
+491,Retract nipple-antepart,67603
+492,Galactorrhea-postpartum,67664
+493,Lactat dis NOS-antepart,67693
+494,Felon,68101
+495,Cellulitis of digit NOS,6819
+496,Acute lymphadenitis,683
+497,Act drmtitis solar rdiat,69272
+498,Oth dermatitis solar rad,69279
+499,Ritter's disease,69581
+500,Lichen NOS,6979
+501,Sebaceous gland dis NEC,7068
+502,Sebaceous gland dis NOS,7069
+503,"Pressure ulcer, buttock",70705
+504,"Pressure ulcer, ankle",70706
+505,"Pressure ulcer,unstagebl",70725
+506,Allergic urticaria,7080
+507,Cholinergic urticaria,7085
+508,Vitiligo,70901
+509,Syst lupus erythematosus,7100
+510,Behcet arthritis-forearm,71123
+511,Bact arthritis-shlder,71141
+512,Viral arthritis-l/leg,71156
+513,Viral arthritis-ankle,71157
+514,Mycotic arthritis-up/arm,71162
+515,Helminth arthrit-up/arm,71172
+516,Inf arthrit NOS-ankle,71197
+517,Dicalc phos crys-forearm,71213
+518,Pyrophosph cryst-unspec,71220
+519,Pyrophos cryst-site NEC,71228
+520,Chondrocalcin NOS-pelvis,71235
+521,Cryst arthrop NOS-l/leg,71296
+522,Arthrop w noninf GI dis,7131
+523,Monoart juv rheum arthr,71433
+524,Loc 2nd osteoarth-up/arm,71522
+525,Loc osteoar NOS-site NEC,71538
+526,Osteoarthros NOS-l/leg,71596
+527,Kaschin-beck dis NEC,71608
+528,Kaschin-beck dis-mult,71609
+529,Arthropathy NEC-pelvis,71685
+530,Arthropathy NOS-pelvis,71695
+531,Old disrupt knee lig NEC,71785
+532,Pathol dislocat-unspec,71820
+533,Pathol dislocat-shlder,71821
+534,Pathol dislocat-up/arm,71822
+535,Jt contracture-forearm,71843
+536,Ankylosis-mult joints,71859
+537,Protrusio acetabuli NOS,71865
+538,Jt derangmnt NOS-unsp jt,71890
+539,Joint effusion-l/leg,71906
+540,Joint pain-jt NEC,71948
+541,Joint sympt NEC-mult jts,71969
+542,Joint dis NEC-l/leg,71986
+543,Joint dis NOS-l/leg,71996
+544,Thoracic disc degen,72251
+545,Torticollis NOS,7235
+546,Panniculitis of neck,7236
+547,Rupture of synovium NEC,72759
+548,Biceps tendon rupture,72762
+549,Calcium deposit tendon,72782
+550,Synov/tend/bursa dis NOS,7279
+551,Plantar fibromatosis,72871
+552,Fibromatoses NEC,72879
+553,Ac osteomyelitis-shlder,73001
+554,Ac osteomyelitis-forearm,73003
+555,Polio osteopathy-unspec,73070
+556,Osteoporosis NOS,73300
+557,Aseptic necrosis humerus,73341
+558,Bone & cartilage dis NEC,73399
+559,Acq hip deformity NEC,73639
+560,Genu valgum,73641
+561,"Claw foot, acquired",73674
+562,Kyphosis NEC,73719
+563,Somatic dysfunction NEC,7399
+564,Spin bif w hydrceph-dors,74102
+565,Hydromyelia,74253
+566,Cryptophthalmos,74306
+567,Cortical/zonular catarac,74332
+568,Cong cornea opac aff vis,74342
+569,Anom iris & cil body NEC,74346
+570,Common truncus,7450
+571,Endocard cushion def NEC,74569
+572,Congen mitral stenosis,7465
+573,Spinal vessel anomaly,74782
+574,Lung anomaly NOS,74860
+575,Cleft palate NOS,74900
+576,Cleft palate & lip NOS,74920
+577,Cong macroglossia,75015
+578,Cervical duplication,75244
+579,Genital organ anom NEC,75289
+580,Obst def ren plv&urt NEC,75329
+581,Cystourethral anom NEC,7538
+582,Cong genu recurvatum,75440
+583,Congen bowing of femur,75442
+584,Talipes NOS,75470
+585,Longitudin defic fibula,75537
+586,Congenital coxa valga,75561
+587,Cong knee deformity,75564
+588,Macrodactylia of toes,75565
+589,Chondrodystrophy,7564
+590,Osteodystrophy NEC,75659
+591,Congn anoml abd wall NOS,75670
+592,Hair anomalies NEC,7574
+593,Down's syndrome,7580
+594,Gonadal dysgenesis,7586
+595,Specfied cong anomal NEC,75989
+596,Ab ftl hrt rt/rhy NOS,76383
+597,Fet growth ret 750-999g,76493
+598,Extreme immatur <500g,76501
+599,Clavicle fx at birth,7672
+600,Congenital pneumonia,7700
+601,Amniotic asp w resp sym,77014
+602,Stomach cont asp w resp,77086
+603,NB cutaneous hemorrhage,7726
+604,Neonatal hemorrhage NEC,7728
+605,NB hemolyt dis:rh isoimm,7730
+606,Stg III nec enterocol NB,77753
+607,NB feeding problems,77931
+608,NB drug withdrawal syndr,7795
+609,Other alter consciousnes,78009
+610,Chills (without fever),78064
+611,Clubbing of fingers,7815
+612,Meningismus,7816
+613,Loss of height,78191
+614,Cardiac murmurs NEC,7852
+615,Ac idio pul hemrg infant,78631
+616,Dysphagia NOS,78720
+617,Visible peristalsis,7874
+618,Continuous leakage,78837
+619,Splitting urinary stream,78861
+620,Straining on urination,78865
+621,Extravasation of urine,7888
+622,Abdmnal rgdt oth spcf st,78949
+623,Colic,7897
+624,Elevated sediment rate,7901
+625,Viremia NOS,7908
+626,Abnrml coagultion prfile,79092
+627,Elvtd prstate spcf antgn,79093
+628,Elev C-reactive protein,79095
+629,Abn fnd-cerebrospinal fl,7920
+630,Abn finding-breast NEC,79389
+631,Vag hi risk HPV-DNA pos,79515
+632,Pap smr vag-cytol malig,79516
+633,Pap smear anus w ASC-US,79671
+634,Anal cytolgy smr unsatis,79678
+635,Sudden infant death synd,7980
+636,Asphyxia,79901
+637,Cl skull vlt fx-mod coma,80003
+638,Cl skl vlt fx-proln coma,80014
+639,Opn skull vlt fx/hem NEC,80080
+640,Cl skul base fx w/o coma,80111
+641,Cl skul base fx-coma NOS,80116
+642,Cl skul base fx/brf coma,80122
+643,Cl skul base fx-coma NOS,80126
+644,Cl skul base fx w/o coma,80131
+645,Cl skull base fx-concuss,80139
+646,Op skl base fx-prol coma,80154
+647,Opn skul base fx-concuss,80169
+648,Opn skl base fx-mod coma,80193
+649,Mandible fx NOS-closed,80220
+650,Fx coron proc mandib-cl,80223
+651,Fx angle of jaw-open,80235
+652,Mult fx mandible-open,80239
+653,Fx malar/maxillary-open,8025
+654,Cl skull fx NEC w/o coma,80331
+655,Cl skl fx NEC-proln coma,80334
+656,Cl skull fx NEC-mod coma,80343
+657,Opn skul fx NEC w/o coma,80371
+658,Opn skul fx NEC-coma NOS,80396
+659,Cl skl w oth fx-coma NOS,80406
+660,Cl skl w oth fx-mod coma,80423
+661,Cl skl w oth fx-coma NOS,80426
+662,Cl skul/oth fx-deep coma,80435
+663,Cl skl w oth fx-coma NOS,80446
+664,Opn skul/oth fx-brf coma,80462
+665,Opn skl/oth fx-deep coma,80485
+666,Opn skul/oth fx-coma NOS,80486
+667,Opn skl/oth fx-deep coma,80495
+668,Opn skull/oth fx-concuss,80499
+669,Fx c5 vertebra-closed,80505
+670,Fx mlt cervical vert-opn,80518
+671,Fx lumbar vertebra-close,8054
+672,C1-c4 fx-cl/cen cord syn,80603
+673,C1-c4 fx-op/com cord les,80611
+674,C1-c4 fx-op/cen cord syn,80613
+675,C5-c7 fx-op/cord inj NEC,80619
+676,T1-t6 fx-cl/cen cord syn,80623
+677,Fx sacr-cl/cauda equ les,80661
+678,Fracture of sternum-open,8073
+679,Pelv fx-clos/pelv disrup,80843
+680,Pelvic fracture NOS-open,8089
+681,Fracture trunk bone-clos,8090
+682,Fx up radius NEC/NOS-cl,81307
+683,Fx coronoid pro ulna-opn,81312
+684,Fx trapezoid bone-closed,81406
+685,Fx metacarp base NEC-opn,81512
+686,"Fx mult phalan, hand-cl",81603
+687,Fx arms w rib/sternum-cl,8190
+688,Fx low end femur NEC-cl,82129
+689,Fx upper end fibula-open,82311
+690,Fx shaft fibula-closed,82321
+691,Fx legs w arm/rib-open,8281
+692,Post disloc elbow-open,83212
+693,Med disloc elbow-open,83213
+694,Disl finger NOS-closed,83400
+695,Posterior disloc hip-cl,83501
+696,Disl interphalan foot-cl,83806
+697,Disl metatarsal NOS-open,83814
+698,Disloc 3rd cerv vert-cl,83903
+699,Disloc 7th cerv vert-opn,83917
+700,Sprain elbow/forearm NOS,8419
+701,Sprain calcaneofibular,84502
+702,Sprain of foot NOS,84510
+703,Sprain sacrospinatus,8462
+704,Sprain sacrotuberous,8463
+705,Sprain of sacrum,8473
+706,Sprain of nasal septum,8480
+707,Concussion NOS,8509
+708,Opn cortx lacer-concuss,85139
+709,Cerebell contus-brf coma,85142
+710,Cerebel lacerat-coma NOS,85166
+711,Brain lac NEC-brief coma,85182
+712,Brain lac NEC-proln coma,85184
+713,Extradur hem-proln coma,85244
+714,Extradural hemor-no coma,85251
+715,Brain hem NEC-deep coma,85305
+716,Brain hem open-deep coma,85315
+717,Open brain inj-coma NOS,85416
+718,Lung contusion-open,86131
+719,Lung laceration-open,86132
+720,Bronchus injury-closed,86221
+721,Stomach injury-open,8631
+722,"Pancreas, head inj-close",86381
+723,Liver injury NEC-closed,86409
+724,Liver lacerat unspcf opn,86415
+725,Spleen injury NOS-open,86510
+726,Kidney disruption-closed,86603
+727,Intra-abdom inj NOS-open,86810
+728,Avulsion of eye,8713
+729,Opn wound auditory canal,87202
+730,Open wound of ear NEC,87269
+731,Open wnd ear drum-compl,87271
+732,Open wound of head NEC,8738
+733,Opn wnd lateral abdomen,8794
+734,Open wnd shoulder-compl,88010
+735,Open wound elbow-complic,88111
+736,Open wound of finger,8830
+737,Open wound finger-compl,8831
+738,Opn wnd arm NOS w tendon,8842
+739,"Amputat arm, unilat NOS",8874
+740,Opn wnd hip/thigh w tend,8902
+741,Open wound of foot,8920
+742,Open wound of leg NEC,8940
+743,Inj head/neck vessel NEC,90089
+744,Injury pulmonary vein,90142
+745,Inj mult thoracic vessel,90183
+746,Inj superior mesent vein,90231
+747,Inj port/splen vess NEC,90239
+748,Injury iliac vessel NEC,90259
+749,Injury brachial vessels,9031
+750,Late eff femoral neck fx,9053
+751,Late effect of radiation,9092
+752,Foreign body head,9106
+753,Insect bite finger,9154
+754,Insect bite hip & leg,9164
+755,Blister foot & toe,9172
+756,Contusion orbital tissue,9212
+757,Back contusion,92231
+758,Contusion shoulder & arm,92309
+759,Contusion of foot,92420
+760,Burn cornea/conjunct NEC,9404
+761,Burn NOS neck,94108
+762,1st deg burn ear,94111
+763,3rd deg burn face NEC,94137
+764,2nd deg burn trunk NEC,94229
+765,1st deg burn arm NOS,94310
+766,1st deg burn forearm,94311
+767,2nd deg burn forearm,94321
+768,3rd deg burn arm NOS,94330
+769,3rd deg burn scapula,94336
+770,Deep 3 deg burn forearm,94341
+771,Burn NOS finger w thumb,94404
+772,Burn NOS palm,94405
+773,1st deg burn palm,94415
+774,3 deg burn fingr w thumb,94434
+775,3rd deg burn palm,94435
+776,3rd brn w loss-fngr/thmb,94454
+777,3rd brn w loss hand-mult,94458
+778,Burn NOS leg-unspec,94500
+779,Burn NOS knee,94505
+780,Deep 3rd deg brn low leg,94544
+781,1st deg burn mult site,9461
+782,30-39% bdy brn/30-39% 3d,94833
+783,90% + bdy brn/90% + 3rd,94899
+784,Burn NOS,9490
+785,Cervical root injury,9530
+786,Fx corpus cavrnosm penis,95913
+787,Trunk injury-sites NEC,95919
+788,Finger injury NOS,9595
+789,Pois-erythromyc/macrolid,9603
+790,Poisoning-antibiotic NEC,9608
+791,Poison-insulin/antidiab,9623
+792,Poisoning-alkalizing agt,9633
+793,Poison-liver/antianemics,9641
+794,Poisoning-coagulants,9645
+795,Poisoning-succinimides,9662
+796,Poisoning-cardiotonics,9721
+797,Pois-emollient cathartic,9732
+798,Poison-muscle agent NEC,9753
+799,Pois-skin/membr agnt NOS,9769
+800,Poisoning-mixed vaccine,9797
+801,Toxic effect benzene,9820
+802,Toxic eff nonpetrol solv,9828
+803,Toxic effect antimony,9854
+804,Toxic eff nitrogen oxide,9872
+805,Toxic effect mushrooms,9881
+806,Tox eff noxious food NEC,9888
+807,Tox eff nonmed subst NEC,98989
+808,Frostbite of foot,9912
+809,Heat exhaust-salt deple,9924
+810,Heat exhaustion NOS,9925
+811,Effects of lightning,9940
+812,Effect external caus NEC,9949
+813,Anphylct react milk prod,99567
+814,Adverse food react NEC,9957
+815,"SIRS, NOS",99590
+816,Malfunc coron bypass grf,99603
+817,Periprosthetc osteolysis,99645
+818,Comp-artificial skin grf,99655
+819,Comp-periton dialys cath,99656
+820,Complcation-insulin pump,99657
+821,Malfunc oth device/graft,99659
+822,Compl reattached leg NEC,99696
+823,Compl reattach part NEC,99699
+824,Postop forgn subst react,9987
+825,Rh incompat/acute HTR,99972
+826,Rh incompat/delay HTR,99973
+827,Non-abo incomp/HTR NEC,99976
+828,Water aerobics/exercise,E0023
+829,Trampoline,E0053
+830,Cheerleading,E0054
+831,"School recess,camp",E0078
+832,Caregiving-lifting,E0141
+833,Food prep & cleanup,E0150
+834,Building & construction,E0162
+835,Land maintain/cnstrt NEC,E0169
+836,String instrument play,E0182
+837,Milking an animal,E0191
+838,Hit by train-passenger,E8051
+839,Mv-train coll-pedest,E8107
+840,Reentrant coll-pers NEC,E8118
+841,Mv collis NOS-pers NOS,E8129
+842,Mv-oth veh coll-driver,E8130
+843,Mv traff acc NEC-pasngr,E8181
+844,Traffic acc NOS-st car,E8194
+845,Snow veh acc-motorcycl,E8202
+846,Oth off-road mv acc-psgr,E8211
+847,N-traf brd/alight-mocycl,E8242
+848,N-traf brd/alit-st car,E8244
+849,Mv n-traff acc NEC-driv,E8250
+850,Mv n-traff NEC/NOS-psgr,E8251
+851,Ridden animal acc-pedest,E8280
+852,Ridden anim acc-pers NEC,E8288
+853,Wtrcraft stair fall-crew,E8332
+854,W/crf stair fall-per NOS,E8339
+855,W/crft fall NEC-military,E8347
+856,W/craft fall NOS-skier,E8354
+857,Watercraft explos-docker,E8376
+858,Watercraft expl-pers NEC,E8378
+859,Watercraft expl-pers NOS,E8379
+860,Watercrft acc NEC-pasngr,E8383
+861,Wtrcrft acc NEC-pers NOS,E8389
+862,Tk off/land-parachutist,E8407
+863,Aircrft acc NEC-crew,E8442
+864,Aircrft acc NEC-pasngr,E8443
+865,Acc poison-heroin,E8500
+866,Acc pois-lubricating oil,E8622
+867,Acc pois-corrosiv aromat,E8640
+868,Acc poison-berries/seeds,E8653
+869,Acc poison-mushrooms,E8655
+870,Acc poison-metals NEC,E8664
+871,Acc cut in med care NEC,E8708
+872,Instrumnt fail-infusion,E8741
+873,Contaminated transfusion,E8750
+874,Abn react-artif implant,E8781
+875,Abn react-fluid aspirat,E8794
+876,Abn react-blood sampling,E8797
+877,Fall from skis,E8853
+878,Fall on level NEC/NOS,E8869
+879,Fire not in building,E892
+880,Clothing fire NOS,E8939
+881,Excessive cold NOS,E9019
+882,Exposure NEC,E9043
+883,Centipede bite,E9054
+884,Accident d/t storm NEC,E9088
+885,Machinery accident NEC,E9198
+886,Explosive gases accident,E9232
+887,Acc-hot tap water,E9242
+888,Radiofreq radiat exposur,E9260
+889,Overxrt-prolng stc postn,E9271
+890,Cumltv trma-repetv impct,E9274
+891,Late eff motor vehic acc,E9290
+892,Adv eff antifung antbiot,E9301
+893,Adv eff post pituitary,E9325
+894,Adv eff anallrg/antemet,E9330
+895,Adv eff antineoplastic,E9331
+896,Adv eff fibrinolysis agt,E9344
+897,Adv eff hydantoin deriv,E9361
+898,Adv eff cns muscl depres,E9380
+899,Adv eff topic/infil anes,E9385
+900,Adv eff nerve-block anes,E9386
+901,Adv eff butyrophen tranq,E9392
+902,Adv eff analeptics,E9400
+903,Adv eff cardiotonics,E9421
+904,Adv eff emetics,E9436
+905,Adv eff emollient/demulc,E9463
+906,Adv eff bcg vaccine,E9480
+907,Injury-firearm NEC,E9554
+908,Self inj-paintball gun,E9557
+909,Injury-firearm/expl NOS,E9559
+910,Injury-aircraft crash,E9586
+911,Unarmed fight or brawl,E9600
+912,Assault-hunting rifle,E9652
+913,Assault-letter bomb,E9657
+914,Batter by non-relative,E9678
+915,Undet circ-fall residenc,E9870
+916,Undeterm circ-electrocut,E9884
+917,War inj:rubber bullet,E9910
+918,War inj:fragment IED NEC,E9917
+919,War inj:con warfare NEC,E9958
+920,War inj:therml radiation,E9962
+921,War inj:expl mine-cease,E9980
+922,Rabies contact,V015
+923,Amebiasis carrier,V022
+924,Vaccin for cholera,V030
+925,Tetanus toxoid inoculat,V037
+926,Vaccin for measles,V042
+927,Use oth agnt af estrogen,V0759
+928,Inf mcrg rstn sulfnmides,V096
+929,Hx-female genit malg NOS,V1040
+930,Hx-female genit malg NEC,V1044
+931,Hx-male genit malig NEC,V1049
+932,Hx-endocrine malign NEC,V1088
+933,Prsnl hst unsp nfct prst,V1200
+934,Hx benign neoplasm brain,V1241
+935,Hx TIA/stroke w/o resid,V1254
+936,Hx-analgesic allergy,V146
+937,Hx-drug allergy NEC,V148
+938,Hx of poisoning,V156
+939,Hx-health hazard NOS,V159
+940,Fam hx-intrathoracic mal,V162
+941,Fm hx genital malig NOS,V1640
+942,Fam hx-blood disord NEC,V183
+943,Family hx-gu disease NEC,V187
+944,Family hx-ear disord NEC,V193
+945,Routin child health exam,V202
+946,Adolescence growth NEC,V212
+947,Low birthwt 1000-1499g,V2133
+948,Preg w hx pre-term labor,V2341
+949,Preg w hx ectopic preg,V2342
+950,Suprv young multigravida,V2384
+951,Suprv high-risk preg NOS,V239
+952,Sterilization,V252
+953,Contracept pill surveill,V2541
+954,Natrl family plan counsl,V2641
+955,Assist repro fertility,V2681
+956,Fertility preserv proc,V2682
+957,Singl livebrn-before adm,V301
+958,Twin-mate lb-in hos w cs,V3101
+959,Mult brth NOS-hos w/o cs,V3700
+960,Liveborn NOS-hosp w cs,V3901
+961,Mental problems NEC,V402
+962,Cornea transplant status,V425
+963,Joint replaced elbow,V4362
+964,Limb replacement NEC,V437
+965,Gastrostomy status,V441
+966,Artificial vagina status,V447
+967,Acq absence of organ NEC,V4579
+968,Machine dependence NEC,V468
+969,Status amput foot,V4973
+970,Dual sensory impairment,V4985
+971,Elective surgery NOS,V509
+972,Fitting prosthesis NEC,V528
+973,Length/adjust growth rod,V5402
+974,Aftercare path fx up arm,V5421
+975,Speech-language therapy,V573
+976,Egg donor age 35+ anon,V5973
+977,Housing/econo circum NEC,V6089
+978,Multiparity,V615
+979,Family circumstance NOS,V619
+980,Legal circumstances,V625
+981,No vaccin-caregiv refuse,V6405
+982,No vaccin-prev disease,V6408
+983,FU exam treatd healed fx,V674
+984,Routine medical exam,V700
+985,Obs-susp cardiovasc dis,V717
+986,Observ-suspect cond NOS,V719
+987,Exam ears & hearing NEC,V7219
+988,Pregnancy test unconfirm,V7240
+989,Scrn oth spcf chlmyd dis,V7388
+990,Screen for helminthiasis,V757
+991,Screen mal neop-resp org,V760
+992,Screen mammogram hi risk,V7611
+993,Screen-iron defic anemia,V780
+994,Screen-contamination NEC,V825
+995,"BMI 28.0-28.9,adult",V8524
+996,"BMI 35.0-35.9,adult",V8535
+997,Acq absence of hip joint,V8821
+998,Retained tooth,V9032
+999,Quad gest 2+ monochorion,V9121
+1000,Quad gest-plac/sac undet,V9129

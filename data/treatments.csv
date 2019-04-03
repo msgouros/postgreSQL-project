@@ -1,0 +1,751 @@
+treat_id,description,icd9
+1,"Repair of thoracoabdominal aortic aneurysm with graft, with or without cardiopulmonary bypass ",33877
+2,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; tube prosthesis  ",34830
+3,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta  ",35082
+4,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta involving visceral vessels (mesenteric, celiac, renal)  ",35092
+5,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for aneurysm, pseudoaneurysm, and associated occlusive disease, abdominal aorta involving iliac vessels (common, hypogastric, external)  ",35102
+6,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta involving iliac vessels (common, hypogastric, external)  ",35103
+7,"Amputation, arm through humerus; with primary closure ",24900
+8,"Amputation, arm through humerus; re-amputation ",24930
+9,"Amputation, forearm, through radius and ulna",25900
+10,"Amputation, forearm, through radius and ulna; re-amputation",25909
+11,Disarticulation through wrist,25920
+12,Disarticulation through wrist; secondary closure or scar revision ,25922
+13,Disarticulation through wrist; re-amputation ,25924
+14,Transmetacarpal amputation; secondary closure or scar revision ,25929
+15,Transmetacarpal amputation; re-amputation ,25931
+16,"Amputation, metacarpal, with finger or thumb (ray amputation), single, with or without interosseous transfer ",26910
+17,"Amputation, finger or thumb, primary or secondary, any joint or phalanx, single, including neurectomies; with direct closure ",26951
+18,"Amputation, finger or thumb, primary or secondary, any joint or phalanx, single, including neurectomies; with local advancement flaps (V-Y, hood) ",26952
+19,Interpelviabdominal amputation (hindquarter amputation) ,27290
+20,"Amputation, thigh, through femur, any level; ",27590
+21,"Amputation, thigh, through femur, any level; immediate fitting technique including first cast ",27591
+22,"Amputation, thigh, through femur, any level; open, circular (guillotine) ",27592
+23,Disarticulation at knee,27598
+24,"Amputation, leg, through tibia and fibula; ",27880
+25,"Amputation, leg, through tibia and fibula; re-amputation ",27886
+26,Ankle disarticulation ,27889
+27,"Amputation, foot; midtarsal (e.g., Chopart type procedure) ",28800
+28,"Amputation, foot; transmetatarsal ",28805
+29,"Amputation, toe; metatarsophalangeal joint ",28820
+30,Incision and drainage of appendiceal abscess; open ,44900
+31,Appendectomy,44950
+32,Appendectomy; when done for indicated purpose at time of other major procedure (not as separate procedure) (List separately in addition to code for primary procedure) ,44955
+33,"Unlisted laparoscopy procedure, appendix ",44979
+34,"Insertion of cannula for hemodialysis, other purpose (separate procedure); vein to vein ",36800
+35,"Arteriovenous anastomosis, open; by forearm vein transposition ",36820
+36,"Arteriovenous anastomosis, open; direct, any site (e.g., Cimino type) (separate procedure) ",36821
+37,Creation of arteriovenous fistula by other than direct arteriovenous anastomosis (separate procedure); autogenous graft ,36825
+38,"Revision, open, arteriovenous fistula; without thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",36832
+39,"Revision, open, arteriovenous fistula; with thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",36833
+40,"Distal revascularization and interval ligation (DRIL), upper extremity hemodialysis access (steal syndrome) ",36838
+41,"Hepatotomy; for open drainage of abscess or cyst, 1 or 2 stages ",47010
+42,"Laparotomy, with aspiration and/or injection of hepatic parasitic (eg, amoebic or echinococcal) cyst(s) or abscess(es ",47015
+43,"Biopsy of liver, wedge ",47100
+44,"Hepatectomy, resection of liver; trisegmentectomy ",47122
+45,"Hepatectomy, resection of liver; total left lobectomy ",47125
+46,"Donor hepatectomy (including cold preservation), from living donor; left lateral segment only (segments II and III) ",47140
+47,"Donor hepatectomy (including cold preservation), from living donor; total right lobectomy (segments V, VI, VII and VIII) ",47142
+48,Marsupialization of cyst or abscess of liver ,47300
+49,Management of liver hemorrhage; simple suture of liver wound or injury ,47350
+50,"Management of liver hemorrhage; exploration of hepatic wound, extensive debridement, coagulation and/or suture, with or without packing of liver ",47361
+51,"Ablation, open, of 1 or more liver tumor(s); radiofrequency ",47380
+52,"Ablation, open, of 1 or more liver tumor(s); cryosurgical ",47381
+53,"Hepaticotomy or hepaticostomy with exploration, drainage, or removal of calculus ",47400
+54,"Choledochotomy or choledochostomy with exploration, drainage, or removal of calculus, with or without cholecystotomy; without transduodenal sphincterotomy or sphincteroplasty ",47420
+55,"Choledochotomy or choledochostomy with exploration, drainage, or removal of calculus, with or without cholecystotomy; with transduodenal sphincterotomy or sphincteroplasty ",47425
+56,"Laparoscopy, surgical; with guided transhepatic cholangiography, without biopsy ",47560
+57,"Exploration for congenital atresia of bile ducts, without repair, with or without liver biopsy, with or without cholangiography ",47700
+58,"Portoenterostomy (eg, Kasai procedure) ",47701
+59,"Excision of bile duct tumor, with or without primary repair of bile duct; extrahepatic ",47711
+60,"Excision of bile duct tumor, with or without primary repair of bile duct; intrahepatic ",47712
+61,"Anastomosis, Roux-en-Y, of intrahepatic biliary ducts and gastrointestinal tract ",47785
+62,U-tube hepaticoenterostomy ,47802
+63,Suture of extrahepatic biliary duct for pre-existing injury (separate procedure) ,47900
+64,"Placement of drains, peripancreatic, for acute pancreatitis; with cholecystostomy, gastrostomy, and jejunostomy ",48001
+65,Removal of pancreatic calculus ,48020
+66,"Excision of lesion of pancreas (eg, cyst, adenoma) ",48120
+67,"Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy ",48140
+68,"Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); with pancreatojejunostomy ",48150
+69,"Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); without pancreatojejunostomy ",48152
+70,"Pancreatectomy, proximal subtotal with near-total duodenectomy, choledochoenterostomy and duodenojejunostomy (pylorus-sparing, Whipple-type procedure); with pancreatojejunostomy ",48153
+71,"Pancreatectomy, proximal subtotal with near-total duodenectomy, choledochoenterostomy and duodenojejunostomy (pylorus-sparing, Whipple-type procedure); without pancreatojejunostomy ",48154
+72,"Pancreatectomy, total or subtotal, with autologous transplantation of pancreas or pancreatic islet cells ",48160
+73,Marsupialization of pancreatic cyst ,48500
+74,"External drainage, pseudocyst of pancreas; open ",48510
+75,Internal anastomosis of pancreatic cyst to gastrointestinal tract; direct ,48520
+76,Internal anastomosis of pancreatic cyst to gastrointestinal tract; Roux-en-Y ,48540
+77,Pancreatorrhaphy for injury ,48545
+78,"Pancreaticojejunostomy, side-to-side anastomosis (Puestow-type operation) ",48548
+79,"Biopsy of breast; open, incisional",19101
+80,"Nipple exploration, with or without excision of a solitary lactiferous duct or a papilloma lactiferous duct",19110
+81,"Excision of cyst, fibroadenoma, or other benign or malignant tumor, aberrant breast tissue, duct lesion, nipple or areolar lesion (except 19300), open, male or female, 1 or more lesions",19120
+82,Mastectomy for gynecomastia,19300
+83,"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy);",19301
+84,"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy); with axillary lymphadenectomy",19302
+85,"Mastectomy, simple, complete",19303
+86,"Mastectomy, subcutaneous",19304
+87,"Mastectomy, radical, including pectoral muscles, axillary lymph nodes",19305
+88,"Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban type operation)",19306
+89,Reduction mammaplasty,19318
+90,"Mammaplasty, augmentation; with prosthetic implant",19325
+91,Removal of mammary implant material,19330
+92,"Immediate insertion of breast prosthesis following mastopexy, mastectomy or in reconstruction",19340
+93,"Delayed insertion of breast prosthesis following mastopexy, mastectomy or in reconstruction",19342
+94,Nipple/areola reconstruction,19350
+95,Correction of inverted nipples,19355
+96,"Breast reconstruction with latissimus dorsi flap, without prosthetic implant",19361
+97,Breast reconstruction with free flap,19364
+98,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), single pedicle, including closure of donor site;",19367
+99,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), single pedicle, including closure of donor site; with microvascular anastomosis (supercharging)",19368
+100,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), double pedicle, including closure of donor site",19369
+101,"Open periprosthetic capsulotomy, breast",19370
+102,"Periprosthetic capsulectomy, breast",19371
+103,Revision of reconstructed breast,19380
+104,"Thoracoscopy, surgical; with creation of pericardial window or partial resection of pericardial sac for drainage",32659
+105,"Thoracoscopy, surgical; with excision of pericardial cyst, tumor, or mass",32661
+106,Pericardiotomy for removal of clot or foreign body (primary procedure),33020
+107,Creation of pericardial window or partial resection for drainage,33025
+108,"Pericardiectomy, subtotal or complete; without cardiopulmonary bypass",33030
+109,"Pericardiectomy, subtotal or complete; with cardiopulmonary bypass",33031
+110,Resection of pericardial cyst or tumor,33050
+111,Resection of external cardiac tumor,33130
+112,"Operative ablation of supraventricular arrhythmogenic focus or pathway (eg, Wolff-Parkinson-White, atrioventricular node re-entry), tract(s) and/or focus (foci); without cardiopulmonary bypass",33250
+113,"Operative ablation of supraventricular arrhythmogenic focus or pathway (eg, Wolff-Parkinson-White, atrioventricular node re-entry), tract(s) and/or focus (foci); with cardiopulmonary bypass",33251
+114,"Operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure); without cardiopulmonary bypass",33255
+115,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), limited (eg, modified maze procedure) (List separately in addition to code for primary procedure)",33257
+116,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), extensive (eg, maze procedure), without cardiopulmonary bypass (List separately in addition to code for primary procedure)",33258
+117,Operative ablation of ventricular arrhythmogenic focus with cardiopulmonary bypass,33261
+118,"Endoscopy, surgical; operative tissue ablation and reconstruction of atria, limited (eg, modified maze procedure), without cardiopulmonary bypass",33265
+119,"Endoscopy, surgical; operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure), without cardiopulmonary bypass ",33266
+120,Repair of cardiac wound; with cardiopulmonary bypass ,33305
+121,"Cardiotomy, exploratory (includes removal of foreign body, atrial or ventricular thrombus); without bypass  ",33310
+122,"Cardiotomy, exploratory (includes removal of foreign body, atrial or ventricular thrombus); with cardiopulmonary bypass ",33315
+123,"Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transaortic approach (eg, median sternotomy, mediastinotomy)",33365
+124,"Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transapical exposure (eg, left thoracotomy) ",33366
+125,"Valvuloplasty, aortic valve, open, with cardiopulmonary bypass; simple (ie, valvotomy, debridement, debulking, and/or simple commissural resuspension)",33390
+126,"Replacement, aortic valve, open, with cardiopulmonary bypass; with stentless tissue valve ",33410
+127,"Replacement, aortic valve; with transventricular aortic annulus enlargement (Konno procedure)",33412
+128,Repair of left ventricular outflow tract obstruction by patch enlargement of the outflow tract ,33414
+129,Resection or incision of subvalvular tissue for discrete subvalvular aortic stenosis ,33415
+130,"Ventriculomyotomy (-myectomy) for idiopathic hypertrophic subaortic stenosis (eg, asymmetric septal hypertrophy)",33416
+131,Aortoplasty (gusset) for supravalvular stenosis,33417
+132,"Valvotomy, mitral valve; closed heart",33420
+133,"Valvuloplasty, mitral valve, with cardiopulmonary bypass;",33425
+134,"Valvuloplasty, mitral valve, with cardiopulmonary bypass; with prosthetic ring",33426
+135,"Valvuloplasty, mitral valve, with cardiopulmonary bypass; radical reconstruction, with or without ring",33427
+136,"Replacement, mitral valve, with cardiopulmonary bypass",33430
+137,"Valvectomy, tricuspid valve, with cardiopulmonary bypass",33460
+138,"Valvuloplasty, tricuspid valve; with ring insertion",33464
+139,"Replacement, tricuspid valve, with cardiopulmonary bypass ",33465
+140,"Right ventricular resection for infundibular stenosis, with or without commissurotomy",33476
+141,"Outflow tract augmentation (gusset), with or without commissurotomy or infundibular resection",33478
+142,Repair of non-structural prosthetic valve dysfunction with cardiopulmonary bypass (separate procedure),33496
+143,"Repair of postinfarction ventricular septal defect, with or without myocardial resection ",33545
+144,"Surgical ventricular restoration procedure, includes prosthetic patch, when performed (eg, ventricular remodeling, SVR, SAVER, Dor procedures)",33548
+145,Closure of atrioventricular valve (mitral or tricuspid) by suture or patch,33600
+146,Closure of semilunar valve (aortic or pulmonary) by suture or patch,33602
+147,Repair of complex cardiac anomaly other than pulmonary atresia with ventricular septal defect by construction or replacement of conduit from right or left ventricle to pulmonary artery ,33608
+148,Repair of double outlet right ventricle with intraventricular tunnel repair; ,33611
+149,Repair of double outlet right ventricle with intraventricular tunnel repair; with repair of right ventricular outflow tract obstruction ,33612
+150,"Repair of complex cardiac anomalies (eg, tricuspid atresia) by closure of atrial septal defect and anastomosis of atria or vena cava to pulmonary artery (simple Fontan procedure)",33615
+151,"Repair of complex cardiac anomalies (e.g., single ventricle by modified Fontan)",33617
+152,"Repair of single ventricle with aortic outflow obstruction and aortic arch hypoplasia (hypoplastic left heart syndrome) (eg, Norwood procedure)",33619
+153,"Repair atrial septal defect, secundum, with cardiopulmonary bypass, with or without patch ",33641
+154,"Repair of atrial septal defect and ventricular septal defect, with direct or patch closure ",33647
+155,"Repair of incomplete or partial atrioventricular canal (ostium primum atrial septal defect), with or without atrioventricular valve repair ",33660
+156,"Repair of intermediate or transitional atrioventricular canal, with or without atrioventricular valve repair ",33665
+157,"Repair of complete atrioventricular canal, with or without prosthetic valve ",33670
+158,Closure of multiple ventricular septal defects; ,33675
+159,Closure of multiple ventricular septal defects; with pulmonary valvotomy or infundibular resection (acyanotic) ,33676
+160,"Closure of single ventricular septal defect, with or without patch; ",33681
+161,"Closure of single ventricular septal defect, with or without patch; with pulmonary valvotomy or infundibular resection (acyanotic) ",33684
+162,"Closure of single ventricular septal defect, with or without patch; with removal of pulmonary artery band, with or without gusset ",33688
+163,Complete repair tetralogy of Fallot without pulmonary atresia;,33692
+164,Complete repair tetralogy of Fallot with pulmonary atresia including construction of conduit from right ventricle to pulmonary artery and closure of ventricular septal defect,33697
+165,"Repair sinus of Valsalva fistula, with cardiopulmonary bypass; with repair of ventricular septal defect ",33710
+166,"Repair sinus of Valsalva aneurysm, with cardiopulmonary bypass ",33720
+167,Atrial septectomy or septostomy; closed heart (Blalock-Hanlon type operation) ,33735
+168,Atrial septectomy or septostomy; open heart with cardiopulmonary bypass ,33736
+169,Repair of transposition of the great arteries with ventricular septal defect and subpulmonary stenosis; without surgical enlargement of ventricular septal defect,33770
+170,"Repair of transposition of the great arteries, atrial baffle procedure (eg, Mustard or Senning type) with cardiopulmonary bypass;",33774
+171,"Repair of transposition of the great arteries, atrial baffle procedure (eg, Mustard or Senning type) with cardiopulmonary bypass; with closure of ventricular septal defect ",33776
+172,"Aortic root translocation with ventricular septal defect and pulmonary stenosis repair (ie, Nikaidoh procedure); with reimplantation of 1 or both coronary ostia ",33783
+173,"Total repair, truncus arteriosus (Rastelli type operation)",33786
+174,Obliteration of aortopulmonary septal defect; without cardiopulmonary bypass ,33813
+175,"Repair of pulmonary atresia with ventricular septal defect, by construction or replacement of conduit from right or left ventricle to pulmonary artery",33920
+176,Implantation of a total replacement heart system (artificial heart) with recipient cardiectomy ,0051T
+177,"Replacement or repair of implantable component or components of total replacement heart system (artificial heart), excluding thoracic unit ",0053T
+178,"Coronary artery bypass, vein only; single coronary venous graft",33510
+179,"Coronary artery bypass, vein only; 2 coronary venous grafts",33511
+180,"Coronary artery bypass, vein only; 3 coronary venous grafts",33512
+181,"Coronary artery bypass, using arterial graft(s); single arterial graft",33533
+182,"Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts",33534
+183,"Coronary artery bypass, using arterial graft(s); 3coronary arterial grafts",33535
+184,"Coronary artery bypass, using arterial graft(s);  4 or moreoronary arterial grafts",33536
+185,"Thromboendarterectomy, including patch graft, if performed; carotid, vertebral, subclavian, by neck incision",35301
+186,"Cholecystotomy or cholecystostomy, open, with exploration, drainage, or removal of calculus (separate procedure)",47480
+187,"Laparoscopy, surgical; cholecystectomy",47562
+188,"Laparoscopy, surgical; cholecystectomy with exploration of common duct ",47564
+189,"Laparoscopy, surgical; cholecystoenterostomy ",47570
+190,Cholecystectomy;,47600
+191,Cholecystectomy; with cholangiography,47605
+192,Cholecystectomy with exploration of common duct; ,47610
+193,Cholecystoenterostomy; direct ,47720
+194,Cholecystoenterostomy; with gastroenterostomy ,47721
+195,Cholecystoenterostomy; Roux-en-Y ,47740
+196,"Excision of 1 or more lesions of small or large intestine not requiring anastomosis, exteriorization, or fistulization; multiple enterotomies",44111
+197,"Removal of transplanted intestinal allograft, complete",44137
+198,"Colectomy, partial; with skin level cecostomy or colostomy",44141
+199,"Colectomy, partial; with end colostomy and closure of distal segment (Hartmann type procedure)",44143
+200,"Colectomy, partial; with resection, with colostomy or ileostomy and creation of mucofistula",44144
+201,"Colectomy, total, abdominal, without proctectomy; with ileostomy or ileoproctostomy",44150
+202,"Colectomy, total, abdominal, without proctectomy; with continent ileostomy",44151
+203,"Colectomy, total, abdominal, with proctectomy; with ileostomy",44155
+204,"Colectomy, total, abdominal, with proctectomy; with continent ileostomy",44156
+205,"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, includes loop ileostomy, and rectal mucosectomy, when performed",44157
+206,"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, creation of ileal reservoir (S or J), includes loop ileostomy, and rectal mucosectomy, when performed",44158
+207,"Colectomy, partial, with removal of terminal ileum with ileocolostomy",44160
+208,"Laparoscopy, surgical; colectomy, partial, with anastomosis",44204
+209,"Laparoscopy, surgical; colectomy, partial, with removal of terminal ileum with ileocolostomy",44205
+210,"Laparoscopy, surgical; colectomy, partial, with end colostomy and closure of distal segment (Hartmann type procedure)",44206
+211,"Laparoscopy, surgical; colectomy, partial, with anastomosis, with coloproctostomy (low pelvic anastomosis)",44207
+212,"Laparoscopy, surgical; colectomy, partial, with anastomosis, with coloproctostomy (low pelvic anastomosis) with colostomy",44208
+213,"Laparoscopy, surgical; colectomy, total, abdominal, without proctectomy, with ileostomy or ileoproctostomy",44210
+214,"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileostomy",44212
+215,"Laparoscopy, surgical, mobilization (take-down) of splenic flexure performed in conjunction with partial colectomy (List separately in addition to primary procedure)",44213
+216,"Laparoscopy, surgical, closure of enterostomy, large or small intestine, with resection and anastomosis",44227
+217,Colostomy or skin level cecostomy;,44320
+218,"Colostomy or skin level cecostomy; with multiple biopsies (eg, for congenital megacolon) (separate procedure)",44322
+219,Revision of colostomy; simple (release of superficial scar) (separate procedure),44340
+220,"Suture of large intestine (colorrhaphy) for perforated ulcer, diverticulum, wound, injury or rupture (single or multiple perforations); without colostomy",44604
+221,"Suture of large intestine (colorrhaphy) for perforated ulcer, diverticulum, wound, injury or rupture (single or multiple perforations); with colostomy",44605
+222,"Closure of enterostomy, large or small intestine; with resection and anastomosis other than colorectal",44625
+223,"Closure of enterostomy, large or small intestine; with resection and colorectal anastomosis (eg, closure of Hartmann type procedure)",44626
+224,"Closure of rectovaginal fistula; abdominal approach, with concomitant colostomy",57307
+225,Twist drill hole for subdural or ventricular puncture,61105
+226,"Twist drill hole(s) for subdural, intracerebral, or ventricular puncture; for implanting ventricular catheter, pressure recording device, or other intracerebral monitoring device",61107
+227,Burr hole(s) or trephine; with drainage of brain abscess or cyst,61150
+228,"Burr hole(s); with aspiration of hematoma or cyst, intracerebral",61156
+229,"Burr hole(s); for implanting ventricular catheter, reservoir, EEG electrode(s), pressure recording device, or other cerebral monitoring device (separate procedure)",61210
+230,"Burr hole(s) or trephine, supratentorial, exploratory, not followed by other surgery",61250
+231,"Burr hole(s) or trephine, infratentorial, unilateral or bilateral",61253
+232,"Craniectomy or craniotomy for evacuation of hematoma, supratentorial; extradural or subdural",61312
+233,"Craniectomy or craniotomy for evacuation of hematoma, supratentorial; intracerebral",61313
+234,"Craniectomy or craniotomy for evacuation of hematoma, infratentorial; extradural or subdural",61314
+235,"Craniectomy or craniotomy for evacuation of hematoma, infratentorial; intracerebellar",61315
+236,"Craniectomy or craniotomy, drainage of intracranial abscess; infratentorial",61321
+237,"Decompression of orbit only, transcranial approach",61330
+238,Exploration of orbit (transcranial approach); with removal of lesion,61333
+239,"Craniectomy, suboccipital with cervical laminectomy for decompression of medulla and spinal cord, with or without dural graft (eg, Arnold-Chiari malformation)",61343
+240,"Craniectomy, suboccipital; for exploration or decompression of cranial nerves",61458
+241,for section of 1 or more cranial nerves,61460
+242,"Craniectomy, trephination, bone flap craniotomy; for excision of brain tumor, supratentorial, except meningioma",61510
+243,"Craniectomy, trephination, bone flap craniotomy; for excision of meningioma, supratentorial",61512
+244,"Craniectomy, trephination, bone flap craniotomy; for excision or fenestration of cyst, supratentorial",61516
+245,"Craniectomy for excision of brain tumor, infratentorial or posterior fossa; except meningioma, cerebellopontine angle tumor, or midline tumor at base of skull",61518
+246,"Craniectomy for excision of brain tumor, infratentorial or posterior fossa; meningioma",61519
+247,"Craniectomy for excision of brain tumor, infratentorial or posterior fossa; cerebellopontine angle tumor",61520
+248,"Craniectomy for excision of brain tumor, infratentorial or posterior fossa; midline tumor at base of skull",61521
+249,"Craniectomy, infratentorial or posterior fossa; for excision of brain abscess",61522
+250,"Craniectomy, infratentorial or posterior fossa; for excision or fenestration of cyst",61524
+251,"Craniectomy, bone flap craniotomy, transtemporal (mastoid) for excision of cerebellopontine angle tumor;",61526
+252,"Craniectomy, bone flap craniotomy, transtemporal (mastoid) for excision of cerebellopontine angle tumor; combined with middle/posterior fossa craniotomy/craniectomy",61530
+253,Subdural implantation of strip electrodes through 1 or more burr or trephine hole(s) for long-term seizure monitoring,61531
+254,"Craniotomy with elevation of bone flap; for subdural implantation of an electrode array, for long-term seizure monitoring",61533
+255,Craniotomy with elevation of bone flap; for excision of epileptogenic focus without electrocorticography during surgery,61534
+256,"Craniotomy with elevation of bone flap; for removal of epidural or subdural electrode array, without excision of cerebral tissue (separate procedure)",61535
+257,"Craniotomy with elevation of bone flap; for excision of cerebral epileptogenic focus, with electrocorticography during surgery (includes removal of electrode array)",61536
+258,"Craniotomy with elevation of bone flap; for lobectomy, temporal lobe, without electrocorticography during surgery",61537
+259,"Craniotomy with elevation of bone flap; for lobectomy, temporal lobe, with electrocorticography during surgery",61538
+260,"Craniotomy with elevation of bone flap; for lobectomy, other than temporal lobe, partial or total, without electrocorticography during surgery",61540
+261,Craniotomy with elevation of bone flap; for partial or subtotal (functional) hemispherectomy,61543
+262,Craniotomy with elevation of bone flap; for excision or coagulation of choroid plexus,61544
+263,Craniotomy with elevation of bone flap; for excision of craniopharyngioma,61545
+264,"Craniotomy for hypophysectomy or excision of pituitary tumor, intracranial approach",61546
+265,"Hypophysectomy or excision of pituitary tumor, transnasal or transseptal approach, nonstereotactic",61548
+266,Craniotomy with elevation of bone flap; for selective amygdalohippocampectomy,61566
+267,"for multiple subpial transections, with electrocorticography during surgery",61567
+268,Craniectomy or craniotomy; with excision of foreign body from brain,61570
+269,Craniectomy or craniotomy; with treatment of penetrating wound of brain,61571
+270,"Transoral approach to skull base, brain stem or upper spinal cord for biopsy, decompression or excision of lesion;",61575
+271,"Craniofacial approach to anterior cranial fossa; extradural, including lateral rhinotomy, orbital exenteration, ethmoidectomy, sphenoidectomy and/or maxillectomy",61581
+272,"Craniofacial approach to anterior cranial fossa; extradural, including unilateral or bifrontal craniotomy, elevation of frontal lobe(s), osteotomy of base of anterior cranial fossa",61582
+273,"Craniofacial approach to anterior cranial fossa; intradural, including unilateral or bifrontal craniotomy, elevation or resection of frontal lobe, osteotomy of base of anterior cranial fossa",61583
+274,"Orbitocranial approach to anterior cranial fossa, extradural, including supraorbital ridge osteotomy and elevation of frontal and/or temporal lobe(s); without orbital exenteration",61584
+275,"Orbitocranial approach to anterior cranial fossa, extradural, including supraorbital ridge osteotomy and elevation of frontal and/or temporal lobe(s); with orbital exenteration",61585
+276,"Bicoronal, transzygomatic and/or LeFort I osteotomy approach to anterior cranial fossa with or without internal fixation, without bone graft",61586
+277,"Infratemporal pre-auricular approach to middle cranial fossa (parapharyngeal space, infratemporal and midline skull base, nasopharynx), with or without disarticulation of the mandible, including parotidectomy, craniotomy, decompression and/or mobilization",61590
+278,"Transpetrosal approach to posterior cranial fossa, clivus or foramen magnum, including ligation of superior petrosal sinus and/or sigmoid sinus",61598
+279,"Resection or excision of neoplastic, vascular or infectious lesion of base of anterior cranial fossa; intradural, including dural repair, with or without graft",61601
+280,"Resection or excision of neoplastic, vascular or infectious lesion of infratemporal fossa, parapharyngeal space, petrous apex; extradural",61605
+281,"Resection or excision of neoplastic, vascular or infectious lesion of infratemporal fossa, parapharyngeal space, petrous apex; intradural, including dural repair, with or without graft",61606
+282,"Resection or excision of neoplastic, vascular or infectious lesion of parasellar area, cavernous sinus, clivus or midline skull base; intradural, including dural repair, with or without graft",61608
+283,"Resection or excision of neoplastic, vascular or infectious lesion of base of posterior cranial fossa, jugular foramen, foramen magnum, or C1-C3 vertebral bodies; intradural, including dural repair, with or without graft",61616
+284,"Secondary repair of dura for cerebrospinal fluid leak, anterior, middle or posterior cranial fossa following surgery of the skull base; by free tissue graft (eg, pericranium, fascia, tensor fascia lata, adipose tissue, homologous or synthetic grafts)",61618
+285,"Surgery of intracranial arteriovenous malformation; supratentorial, simple",61680
+286,"Surgery of intracranial arteriovenous malformation; infratentorial, simple",61684
+287,"Surgery of intracranial arteriovenous malformation; infratentorial, complex",61686
+288,"Surgery of complex intracranial aneurysm, intracranial approach; carotid circulation",61697
+289,"Surgery of simple intracranial aneurysm, intracranial approach; vertebrobasilar circulation",61702
+290,"Surgery of intracranial aneurysm, cervical approach by application of occluding clamp to cervical carotid artery (Selverstone-Crutchfield type)",61703
+291,"Surgery of aneurysm, vascular malformation or carotid-cavernous fistula; by intra-arterial embolization, injection procedure, or balloon catheter",61710
+292,"Anastomosis, arterial, extracranial-intracranial (eg, middle cerebral/cortical) arteries",61711
+293,"Creation of lesion by stereotactic method, including burr hole(s) and localizing and recording techniques, single or multiple stages; globus pallidus or thalamus",61720
+294,"Creation of lesion by stereotactic method, including burr hole(s) and localizing and recording techniques, single or multiple stages; subcortical structure(s) other than globus pallidus or thalamus",61735
+295,Stereotactic implantation of depth electrodes into the cerebrum for long-term seizure monitoring,61760
+296,"Stereotactic localization, including burr hole(s), with insertion of catheter(s) or probe(s) for placement of radiation source",61770
+297,"Craniectomy or craniotomy for implantation of neurostimulator electrodes, cerebral, cortical",61860
+298,"Twist drill, burr hole, craniotomy, or craniectomy with stereotactic implantation of neurostimulator electrode array in subcortical site (eg, thalamus, globus pallidus, subthalamic nucleus, periventricular, periaqueductal gray), without use of intraoperative microelectrode recording; first array",61863
+299,"Craniectomy for implantation of neurostimulator electrodes, cerebellar; cortical",61870
+300,"Craniectomy for implantation of neurostimulator electrodes, cerebellar; subcortical",61875
+301,Revision or removal of intracranial neurostimulator electrodes,61880
+302,"Elevation of depressed skull fracture; simple, extradural",62000
+303,Elevation of depressed skull fracture; with repair of dura and/or debridement of brain,62010
+304,"Craniotomy for repair of dural/cerebrospinal fluid leak, including surgery for rhinorrhea/otorrhea",62100
+305,"Repair of encephalocele, skull vault, including cranioplasty",62120
+306,"Craniotomy for repair of encephalocele, skull base",62121
+307,"Neuroendoscopy, intracranial; with retrieval of foreign body",62163
+308,"Neuroendoscopy, intracranial; with excision of brain tumor, including placement of external ventricular catheter for drainage",62164
+309,"Neuroendoscopy, intracranial; with excision of pituitary tumor, transnasal or trans-sphenoidal approach",62165
+310,"Hysterotomy, abdominal (e.g., for hydatidiform mole, abortion)",59100
+311,"Routine obstetric care including antepartum care, cesarean delivery, and postpartum care",59510
+312,"Routine obstetric care including antepartum care, cesarean delivery, and postpartum care, following attempted vaginal delivery after previous cesarean delivery",59618
+313,"Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery; including postpartum care",59622
+314,"Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic",22532
+315,"Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar",22533
+316,"Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal cord and/or nerve roots; cervical below C2",22551
+317,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); cervical below C2",22554
+318,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar",22558
+319,"Arthrodesis, pre-sacral interbody technique, including disc space preparation, discectomy, with posterior instrumentation, with image guidance, includes bone graft when performed, L5-S1 interspace",22586
+320,"Arthrodesis, posterior technique, craniocervical (occiput-C2)",22590
+321,"Arthrodesis, posterior or posterolateral technique, single level; thoracic (with lateral transverse technique, when performed)",22610
+322,"Arthrodesis, posterior or posterolateral technique, single level; lumbar (with lateral transverse technique, when performed)",22612
+323,"Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for decompression), single interspace; lumbar",22630
+324,"Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or discectomy sufficient to prepare interspace (other than for decompression), single interspace and segment; lumbar",22633
+325,"Arthrodesis, posterior, for spinal deformity, with or without cast; 13 or more vertebral segments",22804
+326,"Arthrodesis, anterior, for spinal deformity, with or without cast; 4 to 7 vertebral segments",22810
+327,"Arthrodesis, sacroiliac joint (including obtaining graft)",27280
+328,"Arthrodesis, pre-sacral interbody technique, disc space preparation, discectomy, without instrumentation, with image guidance, includes bone graft when performed; L5-S1 interspace",0195T
+329,"Open treatment of greater humeral tuberosity fracture, includes internal fixation, when performed",23630
+330,"Open treatment of shoulder dislocation, with fracture of greater humeral tuberosity, includes internal fixation, when performed",23670
+331,"Open treatment of shoulder dislocation, with surgical or anatomical neck fracture, includes internal fixation, when performed",23680
+332,"Open treatment of humeral shaft fracture with plate/screws, with or without cerclage",24515
+333,"Treatment of humeral shaft fracture, with insertion of intramedullary implant, with or without cerclage and/or locking screws",24516
+334,"Open treatment of humeral supracondylar or transcondylar fracture, includes internal fixation, when performed; with intercondylar extension",24546
+335,"Open treatment of humeral epicondylar fracture, medial or lateral, includes internal fixation, when performed",24575
+336,"Open treatment of humeral condylar fracture, medial or lateral, includes internal fixation, when performed",24579
+337,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius);,24586
+338,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius); with implant arthroplasty,24587
+339,"Open treatment of Monteggia type of fracture dislocation at elbow (fracture proximal end of ulna with dislocation of radial head), includes internal fixation, when performed",24635
+340,"Open treatment of radial head or neck fracture, includes internal fixation or radial head excision, when performed;",24665
+341,"Open treatment of radial head or neck fracture, includes internal fixation or radial head excision, when performed; with radial head prosthetic replacement",24666
+342,"Open treatment of radial shaft fracture, includes internal fixation, when performed",25515
+343,"Open treatment of radial shaft fracture, includes internal fixation, when performed, and open treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation), includes percutaneous skeletal fixation when performed",25525
+344,"Open treatment of radial shaft fracture, includes internal fixation, when performed, and open treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation), includes internal fixation, when performed, includes repair of triangular fibrocartilage complex",25526
+345,"Open treatment of ulnar shaft fracture, includes internal fixation, when performed",25545
+346,"Open treatment of distal radial extra-articular fracture or epiphyseal separation, with internal fixation",25607
+347,Open treatment of distal radial intra-articular fracture or epiphyseal separation; with internal fixation of 3 or more fragments,25609
+348,Open treatment of ulnar styloid fracture,25652
+349,Open treatment of slipped femoral epiphysis; single or multiple pinning or bone graft (includes obtaining graft),27177
+350,Open treatment of slipped femoral epiphysis; closed manipulation with single or multiple pinning,27178
+351,Open treatment of slipped femoral epiphysis; osteotomy and internal fixation,27181
+352,"Open treatment of femoral shaft fracture with plate/screws, with or without cerclage",27507
+353,"Open treatment of femoral supracondylar or transcondylar fracture with intercondylar extension, includes internal fixation, when performed",27513
+354,"Open treatment of femoral fracture, distal end, medial or lateral condyle, includes internal fixation, when performed",27514
+355,"Open treatment of distal femoral epiphyseal separation, includes internal fixation, when performed",27519
+356,"Open treatment of tibial fracture, proximal (plateau); unicondylar, includes internal fixation, when performed",27535
+357,"Open treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, includes internal fixation, when performed",27540
+358,"Treatment of tibial shaft fracture (with or without fibular fracture) by intramedullary implant, with or without interlocking screws and/or cerclage",27759
+359,"Open treatment of medial malleolus fracture, includes internal fixation, when performed",27766
+360,"Open treatment of posterior malleolus fracture, includes internal fixation, when performed",27769
+361,"Open treatment of proximal fibula or shaft fracture, includes internal fixation, when performed",27784
+362,"Open treatment of distal fibular fracture (lateral malleolus), includes internal fixation, when performed",27792
+363,"Open treatment of trimalleolar ankle fracture, includes internal fixation, when performed, medial and/or lateral malleolus; with fixation of posterior lip",27823
+364,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (eg, pilon or tibial plafond), with internal fixation, when performed; of fibula only",27826
+365,"Open treatment of distal tibiofibular joint (syndesmosis) disruption, includes internal fixation, when performed",27829
+366,"Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with thoracic esophagogastrostomy, with or without pyloroplasty (Ivor Lewis)",43117
+367,"Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)",43118
+368,"Partial esophagectomy, distal two-thirds, with thoracotomy only, with or without proximal gastrectomy, with thoracic esophagogastrostomy, with or without pyloroplasty",43121
+369,"Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with esophagogastrostomy, with or without pyloroplasty",43122
+370,"Laparoscopy, surgical, esophagogastric fundoplasty (eg, Nissen, Toupet procedures)",43280
+371,"Esophagogastrostomy (cardioplasty), with or without vagotomy and pyloroplasty, transabdominal or transthoracic approach",43320
+372,Esophagogastric fundoplasty; with fundic patch (Thal-Nissen procedure),43325
+373,Esophagogastric fundoplasty partial or complete; laparotomy,43327
+374,Gastrotomy; with exploration or foreign body removal,43500
+375,"Gastrotomy; with suture repair of pre-existing esophagogastric laceration (eg, Mallory-Weiss)",43502
+376,pylopmyotomy - incision of pyeloric muscle,43520
+377,"Biopsy of stomach, by laparotomy",43605
+378,"Excision, local; ulcer or benign tumor of stomach",43610
+379,"Excision, local; malignant tumor of stomach",43611
+380,"Gastrectomy, total; with esophagoenterostomy",43620
+381,"Gastrectomy, partial, distal; with gastroduodenostomy",43631
+382,"Gastrectomy, partial, distal; with gastrojejunostomy",43632
+383,"Gastrectomy, partial, distal; with Roux-en-Y reconstruction",43633
+384,"Vagotomy including pyloroplasty, with or without gastrostomy; truncal or selective",43640
+385,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and Roux-en-Y gastroenterostomy (roux limb 150 cm or less)",43644
+386,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and small intestine reconstruction to limit absorption",43645
+387,"Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device and subcutaneous port components",43774
+388,"Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy)",43775
+389,Pyloroplasty,43800
+390,Gastroduodenostomy,43810
+391,Gastrojejunostomy; without vagotomy,43820
+392,"Gastrojejunostomy; with vagotomy, any type",43825
+393,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; vertical-banded gastroplasty",43842
+394,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; other than vertical-banded gastroplasty",43843
+395,"Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch)",43845
+396,"Gastric restrictive procedure, with gastric bypass for morbid obesity; with short limb (150 cm or less) Roux-en-Y gastroenterostomy",43846
+397,Revision of gastroduodenal anastomosis (gastroduodenostomy) with reconstruction; without vagotomy,43850
+398,Revision of gastroduodenal anastomosis (gastroduodenostomy) with reconstruction; with vagotomy,43855
+399,"Revision of gastrojejunal anastomosis (gastrojejunostomy) with reconstruction, with or without partial gastrectomy or intestine resection; with vagotomy",43865
+400,Closure of gastrocolic fistula,43880
+401,"Gastric restrictive procedure, open; revision of subcutaneous port component only",43886
+402,"Gastric restrictive procedure, open; removal of subcutaneous port component only",43887
+403,"Gastric restrictive procedure, open; removal and replacement of subcutaneous port component only",43888
+404,"Esophagectomy, total or near total, with laparoscopic mobilization of the abdominal and mediastinal esophagus and proximal gastrectomy, with laparoscopic pyloric drainage procedure if performed, with open cervical pharyngogastrostomy or esophagogastrostomy (ie, laparoscopic transhiatal esophagectomy)",43286
+405,"Esophagectomy, distal two-thirds, with laparoscopic mobilization of the abdominal and lower mediastinal esophagus and proximal gastrectomy, with laparoscopic pyloric drainage procedure if performed, with separate thoracoscopic mobilization of the middle and upper mediastinal esophagus and thoracic esophagogastrostomy (ie, laparoscopic thoracoscopic esophagectomy, Ivor Lewis esophagectomy)",43287
+406,"Repair, initial inguinal hernia, preterm infant (younger than 37 weeks gestation at birth), performed from birth up to 50 weeks postconception age, with or without hydrocelectomy; reducible",49491
+407,"Repair, initial inguinal hernia, preterm infant (younger than 37 weeks gestation at birth), performed from birth up to 50 weeks postconception age, with or without hydrocelectomy; incarcerated or strangulated",49492
+408,"Repair, initial inguinal hernia, full term infant younger than age 6 months, or preterm infant older than 50 weeks postconception age and younger than age 6 months at the time of surgery, with or without hydrocelectomy; reducible",49495
+409,"Repair, initial inguinal hernia, full term infant younger than age 6 months, or preterm infant older than 50 weeks postconception age and younger than age 6 months at the time of surgery, with or without hydrocelectomy; incarcerated or strangulated",49496
+410,"Repair recurrent inguinal hernia, any age; reducible",49520
+411,"Repair recurrent inguinal hernia, any age; incarcerated or strangulated",49521
+412,incarcerated or strangulated,49553
+413,Repair recurrent femoral hernia; reducible,49555
+414,Repair recurrent femoral hernia; incarcerated or strangulated,49557
+415,Repair recurrent incisional or ventral hernia; reducible,49565
+416,Repair recurrent incisional or ventral hernia; incarcerated or strangulated,49566
+417,"Repair epigastric hernia (eg, preperitoneal fat); reducible (separate procedure)",49570
+418,"Repair epigastric hernia (eg, preperitoneal fat); incarcerated or strangulated",49572
+419,"Repair umbilical hernia, younger than age 5 years; reducible",49580
+420,"Repair umbilical hernia, age 5 years or older; incarcerated or strangulated",49587
+421,Repair spigelian hernia,49590
+422,"Repair of large omphalocele or gastroschisis; with removal of prosthesis, final reduction and closure, in operating room",49606
+423,Repair of omphalocele (Gross type operation); first stage,49610
+424,Repair of omphalocele (Gross type operation); second stage,49611
+425,"Laparoscopy, surgical; repair initial inguinal hernia",49650
+426,"Laparoscopy, surgical; repair recurrent inguinal hernia",49651
+427,"Laparoscopy, surgical, repair, ventral, umbilical, spigelian or epigastric hernia (includes mesh insertion, when performed); reducible",49652
+428,"Laparoscopy, surgical, repair, incisional hernia (includes mesh insertion, when performed); incarcerated or strangulated",49655
+429,"Laparoscopy, surgical, repair, recurrent incisional hernia (includes mesh insertion, when performed); reducible",49656
+430,"Laparoscopy, surgical, repair, recurrent incisional hernia (includes mesh insertion, when performed); incarcerated or strangulated",49657
+431,"Unlisted laparoscopy procedure, hernioplasty, herniorrhaphy, herniotomy",49659
+432,"Hemiarthroplasty, hip, partial (eg, femoral stem prosthesis, bipolar arthroplasty)",27125
+433,"Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft",27130
+434,"Revision of total hip arthroplasty; femoral component only, with or without allograft",27138
+435,Removal and replacement of total replacement heart system (artificial heart),33928
+436,"Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s)",58150
+437,"Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s); with colpo-urethrocystopexy (eg, Marshall-Marchetti-Krantz, Burch)",58152
+438,"Supracervical abdominal hysterectomy (subtotal hysterectomy), with or without removal of tube(s), with or without removal of ovary(s)",58180
+439,"Total abdominal hysterectomy, including partial vaginectomy, with para-aortic and pelvic lymph node sampling, with or without removal of tube(s), with or without removal of ovary(s)",58200
+440,"Radical abdominal hysterectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling (biopsy), with or without removal of tube(s), with or without removal of ovary(s)",58210
+441,"Laparoscopy, surgical, supracervical hysterectomy, for uterus 250 g or less",58541
+442,"Laparoscopy, surgical, supracervical hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)",58542
+443,"Laparoscopy, surgical, supracervical hysterectomy, for uterus greater than 250 g",58543
+444,"Laparoscopy, surgical, supracervical hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",58544
+445,"Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)",58571
+446,"Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g",58572
+447,"Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy; with total abdominal hysterectomy, pelvic and limited para-aortic lymphadenectomy",58951
+448,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking",58953
+449,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking; with pelvic lymphadenectomy and limited para-aortic lymphadenectomy",58954
+450,"Bilateral salpingo-oophorectomy with total omentectomy, total abdominal hysterectomy for malignancy",58956
+451,Subtotal or total hysterectomy after cesarean delivery,59525
+452,"Laparoscopy, surgical, total hysterectomy for resection of malignancy (tumor debulking), with omentectomy including salpingo-oophorectomy, unilateral or bilateral, when performed",58575
+453,"Arthroplasty, knee, tibial plateau",27440
+454,"Arthroplasty, knee, tibial plateau; with debridement and partial synovectomy",27441
+455,"Arthroplasty, femoral condyles or tibial plateau(s), knee; with debridement and partial synovectomy",27443
+456,"Arthroplasty, knee, condyle and plateau; medial OR lateral compartment",27446
+457,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",27447
+458,"Revision of total knee athroplasty, with or without allograft, one component",27486
+459,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",27487
+460,Recipient nephrectomy (separate procedure)  ,50340
+461,"Renal allotransplantation, implantation of graft; without recipient nephrectomy ",50360
+462,"Renal allotransplantation, implantation of graft; with recipient nephrectomy ",50365
+463,"Renal autotransplantation, reimplantation of kidney ",50380
+464,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; cervical",22220
+465,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; thoracic",22222
+466,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; lumbar",22224
+467,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes osteophytectomy for nerve root or spinal cord decompression and microdissection); single interspace, cervical",22856
+468,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, single interspace; cervical",22861
+469,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, single interspace; lumbar",22862
+470,"Insertion of interlaminar/interspinous process stabilization/distraction device, without fusion, including image guidance when performed, with open decompression, lumbar; single level ",22867
+471,"Decompression procedure, percutaneous, of nucleus pulposus of intervertebral disc, any method utilizing needle based technique to remove disc material under fluoroscopic imaging or other form of indirect visualization, with the use of an endoscope, with discography and/or epidural injection(s) at the treated level(s), when performed, single or multiple levels, lumbar",62287
+472,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; cervical",63001
+473,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; sacral",63011
+474,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; cervical",63015
+475,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; lumbar",63017
+476,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, cervical",63020
+477,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, lumbar",63030
+478,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; cervical",63040
+479,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; lumbar",63042
+480,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical",63045
+481,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; thoracic",63046
+482,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; lumbar",63047
+483,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; each additional segment, cervical, thoracic, or lumbar (List separately in addition to code for primary procedure)",63048
+484,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments;",63050
+485,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments; with reconstruction of the posterior bony elements (including the application of bridging bone graft and non-segmental fixation devices [eg, wire, suture, mini-plates], when performed)",63051
+486,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace",63075
+487,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, single interspace",63077
+488,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, single segment",63081
+489,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, each additional segment (List separately in addition to code for primary procedure)",63082
+490,"Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, single segment",63085
+491,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; single segment",63087
+492,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; each additional segment (List separately in addition to code for primary procedure)",63088
+493,"Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; single segment",63090
+494,"Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; each additional segment (List separately in addition to code for primary procedure)",63091
+495,"Laminectomy with myelotomy (eg, Bischof or DREZ type), cervical, thoracic, or thoracolumbar",63170
+496,Laminectomy with drainage of intramedullary cyst/syrinx; to peritoneal or pleural space,63173
+497,Laminectomy with rhizotomy; 1 or 2 segments,63185
+498,"Laminectomy with cordotomy, with section of 1 spinothalamic tract, 1 stage; thoracic",63195
+499,"Laminectomy with cordotomy, with section of both spinothalamic tracts, 1 stage; cervical",63196
+500,"Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; cervical",0219T
+501,"Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; thoracic",0220T
+502,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes osteophytectomy for nerve root or spinal cord decompression and microdissection), cervical, three or more levels",0375T
+503,"Liver allotransplantation; orthotopic, partial or whole, from cadaver or living donor, any age ",47135
+504,"Laryngotomy (thyrotomy, laryngofissure); with removal of tumor or laryngocele, cordectomy ",31300
+505,"Laryngectomy; subtotal supraglottic, without radical neck dissection  ",31367
+506,Partial laryngectomy (hemilaryngectomy); horizontal  ,31370
+507,Partial laryngectomy (hemilaryngectomy); laterovertical,31375
+508,Partial laryngectomy (hemilaryngectomy); anterovertical  ,31380
+509,Partial laryngectomy (hemilaryngectomy); antero-latero-vertical  ,31382
+510,"Pharyngolaryngectomy, with radical neck dissection; without reconstruction  ",31390
+511,"Pharyngolaryngectomy, with radical neck dissection; with reconstruction  ",31395
+512,"Arytenoidectomy or arytenoidopexy, external approach  ",31400
+513,"Laryngoplasty; for laryngeal stenosis, with graft, without indwelling stent placement, younger than 12 years of age",31551
+514,"Laryngoplasty; for laryngeal stenosis, with graft, without indwelling stent placement, age 12 years or older ",31552
+515,"Laryngoplasty; for laryngeal stenosis, with graft, with indwelling stent placement, younger than 12 years of age ",31553
+516,"Laryngoplasty; for laryngeal stenosis, with graft, with indwelling stent placement, age 12 years or older",31554
+517,"Laryngoplasty, medialization, unilateral ",31591
+518,"Unlisted procedure, larynx  ",31599
+519,"Dissection, deep jugular node(s)  ",38542
+520,"Glossectomy; complete or total, with or without tracheostomy, without radical neck dissection  ",41140
+521,"Glossectomy; complete or total, with or without tracheostomy, with unilateral radical neck dissection  ",41145
+522,"Excision of parotid tumor or parotid gland; total, en bloc removal with sacrifice of facial nerve  ",42425
+523,"Excision of parotid tumor or parotid gland; total, with unilateral radical neck dissection  ",42426
+524,Radical excision external auditory canal lesion; without neck dissection  ,69150
+525,Radical excision external auditory canal lesion; with neck dissection  ,69155
+526," Renal exploration, not necessitating other specific procedures  ",50010
+527,"Drainage of perirenal or renal abscess, open  ",50020
+528,"Nephrostomy, nephrotomy with drainage  ",50040
+529,"Nephrotomy, with exploration  ",50045
+530,Nephrolithotomy; removal of calculus  ,50060
+531,Nephrolithotomy; secondary surgical operation for calculus  ,50065
+532,Nephrolithotomy; removal of large staghorn calculus filling renal pelvis and calyces (including anatrophic pyelolithotomy)  ,50075
+533,"Pyelotomy; complicated (e.g., secondary operation, congenital kidney abnormality)  ",50135
+534,Renal biopsy; by surgical exposure of kidney ,50205
+535,"Nephrectomy, including partial ureterectomy, any open approach including rib resection; complicated because of previous surgery on same kidney  ",50225
+536,"Nephrectomy, including partial ureterectomy, any open approach including rib resection; radical, with regional lymphadenectomy and/or vena caval thrombectomy  ",50230
+537,Nephrectomy with total ureterectomy and bladder cuff; through same incision  ,50234
+538,Nephrectomy with total ureterectomy and bladder cuff; through separate incision  ,50236
+539,"Nephrectomy, partial  ",50240
+540,"Ablation, open, 1 or more renal mass lesion(s), cryosurgical, including intraoperative ultrasound guidance and monitoring, if performed ",50250
+541,Excision or unroofing of cyst(s) of kidney ,50280
+542,Excision of perinephric cyst  ,50290
+543,"Donor nephrectomy (including cold preservation); open, from living donor  ",50320
+544,"Pyeloplasty (Foley Y-pyeloplasty), plastic operation on renal pelvis, with or without plastic operation on ureter, nephropexy, nephrostomy, pyelostomy, or ureteral splinting; complicated (congenital kidney abnormality, secondary pyeloplasty, solitary kidney, calycoplasty) ",50405
+545,"Laparoscopy, surgical; ablation of renal cysts ",50541
+546,"Laparoscopy, surgical; partial nephrectomy  ",50543
+547,"Laparoscopy, surgical; radical nephrectomy (includes removal of Gerota's fascia and surrounding fatty tissue, removal of regional lymph nodes, and adrenalectomy)  ",50545
+548,Unlisted laparoscopic nephrectomy,50549
+549,"Laparoscopy, surgical; with lysis of adhesions (salpingolysis, ovariolysis) (separate procedure) ",58660
+550,"Lysis of adhesions (salpingolysis, ovariolysis) ",58740
+551,"Drainage of ovarian cyst(s), unilateral or bilateral (separate procedure); vaginal approach  ",58800
+552,"Drainage of ovarian cyst(s), unilateral or bilateral (separate procedure); abdominal approach  ",58805
+553,"Drainage of ovarian abscess; vaginal approach, open  ",58820
+554,"Transposition, ovary(s)  ",58825
+555,"Ovarian cystectomy, unilateral or bilateral  ",58925
+556,"Oophorectomy, partial or total, unilateral or bilateral;",58940
+557,"Oophorectomy, partial or total, unilateral or bilateral; for ovarian, tubal or primary peritoneal malignancy, with para-aortic and pelvic lymph node biopsies, peritoneal washings, peritoneal biopsies, diaphragmatic assessments, with or without salpingectomy(s), with or without omentectomy  ",58943
+558,"Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy;  ",58950
+559,"Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy; with radical dissection for debulking (i.e., radical excision or destruction, intra-abdominal or retroperitoneal tumors)  ",58952
+560,"Follicle puncture for oocyte retrieval, any method  ",58970
+561,"Insertion of epicardial electrode(s); open incision (e.g., thoracotomy, median sternotomy, subxiphoid approach)",33202
+562,"Insertion of epicardial electrode(s); endoscopic approach (e.g., thoracoscopy, pericardioscopy)",33203
+563,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial ,33206
+564,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); ventricular ,33207
+565,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial and ventricular ,33208
+566,Insertion of pacemaker pulse generator only; with existing dual leads ,33213
+567," Upgrade of implanted pacemaker system, conversion of single chamber system to dual chamber system (includes removal of previously placed pulse generator, testing of existing lead, insertion of new lead, insertion of new pulse generator) ",33214
+568,Repositioning of previously implanted transvenous pacemaker or implantable defibrillator (right atrial or right ventricular) electrode,33215
+569,"Insertion of a single transvenous electrode, permanent pacemaker or implantable defibrillator ",33216
+570,Repair of 2 transvenous electrodes for permanent pacemaker or implantable defibrillator ,33220
+571,Relocation of skin pocket for implantable defibrillator ,33223
+572,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, with attachment to previously placed pacemaker or implantable defibrillator pulse generator (including revision of pocket, removal, insertion, and/or replacement of existing generator)",33224
+573,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, at time of insertion of implantable defibrillator or pacemaker pulse generator (e.g., for upgrade to dual chamber system) (List separately in addition to code for primary procedure)",33225
+574,"Repositioning of previously implanted cardiac venous system (left ventricular) electrode (including removal, insertion and/or replacement of existing generator)",33226
+575,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; single lead system ,33227
+576,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; dual lead system ,33228
+577,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; multiple lead system ,33229
+578,Insertion of implantable defibrillator pulse generator only; with existing dual leads ,33230
+579,Insertion of implantable defibrillator pulse generator only; with existing multiple leads ,33231
+580,"Removal of transvenous pacemaker electrode(s); single lead system, atrial or ventricular ",33234
+581,Removal of transvenous pacemaker electrode(s); dual lead system ,33235
+582,Removal of permanent epicardial pacemaker and electrodes by thoracotomy; dual lead system,33237
+583,Removal of permanent transvenous electrode(s) by thoracotomy,33238
+584,Insertion of implantable defibrillator pulse generator only; with existing single lead ,33240
+585,Removal of implantable defibrillator pulse generator only ,33241
+586,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; by transvenous extraction ,33244
+587,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; single lead system ,33262
+588,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; multiple lead system ,33264
+589,Insertion of subcutaneous implantable defibrillator electrode,33271
+590,Removal of subcutaneous implantable defibrillator electrode,33272
+591,"Biopsy, prostate; incisional, any approach",55705
+592,"Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic lymphadenectomy)",55812
+593,"Prostatectomy, perineal radical; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes",55815
+594,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); suprapubic, subtotal, 1 or 2 stages",55821
+595,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); retropubic, subtotal",55831
+596,"Prostatectomy, retropubic radical, with or without nerve sparing; with lymph node biopsy(s) (limited pelvic lymphadenectomy)",55842
+597,"Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes",55845
+598,"Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed",55866
+599,Bypass graft subclavian- brachial,35512
+600,"Bypass graft, with vein; subclavian-axillary",35516
+601,"Bypass graft, with vein; axillary-femoral",35521
+602,"Bypass graft, with vein; brachial-ulnar or -radial",35523
+603,"Bypass graft, with vein; femoral-popliteal",35556
+604,"Bypass graft, with vein; femoral-femoral",35558
+605,"Bypass graft, with vein; popliteal-tibial, -peroneal artery or other distal vessels",35571
+606,In-situ vein bypass; femoral-popliteal,35583
+607,"Bypass graft, with other than vein; subclavian-axillary",35616
+608,"Bypass graft, with other than vein; axillary-femoral",35621
+609,"Bypass graft, with other than vein; axillary-popliteal or -tibial",35623
+610,"Bypass graft, with other than vein; axillary-axillary",35650
+611,"Bypass graft, with other than vein; axillary-femoral-femoral",35654
+612,"Bypass graft, with other than vein; femoral-popliteal",35656
+613,"Bypass graft, with other than vein; femoral-femoral",35661
+614,"Proctectomy; partial resection of rectum, transabdominal approach",45111
+615,"Proctectomy, partial, with rectal mucosectomy, ileoanal anastomosis, creation of ileal reservoir (S or J), with or without loop ileostomy",45113
+616,"Proctectomy, partial, with anastomosis; abdominal and transsacral approach",45114
+617,"Proctectomy, partial, with anastomosis; transsacral approach only (Kraske type)",45116
+618,"Proctectomy, combined abdominoperineal pull-through procedure (eg, colo-anal anastomosis), with creation of colonic reservoir (eg, J-pouch), with diverting enterostomy when performed",45119
+619,"Proctectomy, complete (for congenital megacolon), abdominal and perineal approach; with subtotal or total colectomy, with multiple biopsies",45121
+620,"Pelvic exenteration for colorectal malignancy, with proctectomy (with or without colostomy), with removal of bladder and ureteral transplantations, and/or hysterectomy, or cervicectomy, with or without removal of tube(s), with or without removal of ovary(s), or any combination thereof",45126
+621,"Laparoscopy, surgical; proctectomy, combined abdominoperineal pull-through procedure (eg, colo-anal anastomosis), with creation of colonic reservoir (eg, J-pouch), with diverting enterostomy, when performed",45397
+622,"Exploration, repair, and presacral drainage for rectal injury; with colostomy",45563
+623,Free jejunum transfer with microvascular anastomosis,43496
+624,"Duodenotomy, for exploration, biopsy(s), or foreign body removal",44010
+625,"Tube or needle catheter jejunostomy for enteral alimentation, intraoperative, any method (List separately in addition to primary procedure)",44015
+626,"Enterotomy, small intestine, other than duodenum; for decompression (eg, Baker tube)",44021
+627,"Enterectomy, resection of small intestine; each additional resection and anastomosis (List separately in addition to code for primary procedure)",44121
+628,"Enterectomy, resection of small intestine; with enterostomy",44125
+629,"Enterectomy, resection of small intestine for congenital atresia, single resection and anastomosis of proximal segment of intestine; with tapering",44127
+630,"Laparoscopy, surgical; jejunostomy (eg, for decompression or feeding)",44186
+631,"Laparoscopy, surgical; enterectomy, resection of small intestine, single resection and anastomosis",44202
+632,"Laparoscopy, surgical; each additional small intestine resection and anastomosis (List separately in addition to code for primary procedure)",44203
+633,Enterostomy-External Fistulization of Intestines Procedures,44300
+634,Continent ileostomy (Kock procedure) (separate procedure),44316
+635,"Suture of small intestine (enterorrhaphy) for perforated ulcer, diverticulum, wound, injury or rupture; single perforation",44602
+636,"Suture of small intestine (enterorrhaphy) for perforated ulcer, diverticulum, wound, injury or rupture; multiple perforations",44603
+637,"Intestinal stricturoplasty (enterotomy and enterorrhaphy) with or without dilation, for intestinal obstruction",44615
+638,Closure of intestinal cutaneous fistula,44640
+639,Closure of enteroenteric or enterocolic fistula,44650
+640,Excision of Meckel's diverticulum (diverticulectomy) or omphalomesenteric duct,44800
+641,Excision of ileoanal reservoir with ileostomy,45136
+642,Repair of ruptured spleen (splenorrhaphy) with or without partial splenectomy,38115
+643,"Laparoscopy, surgical, splenectomy",38120
+644,Injection procedure for splenoportography,38200
+645,"Excision of chest wall tumor involving ribs, with plastic reconstruction; with mediastinal lymphadenectomy",19272
+646,Exploration of penetrating wound (separate procedure); chest,20101
+647,Bronchoplasty; graft repair,31770
+648,Bronchoplasty; excision stenosis and anastomosis,31775
+649,"Thoracotomy, with diagnostic biopsy(ies) of lung infiltrate(s) (eg, wedge, incisional), unilateral",32096
+650,"Thoracotomy, with diagnostic biopsy(ies) of lung nodule(s) or mass(es) (eg, wedge, incisional), unilateral",32097
+651,Thoracotomy; with exploration,32100
+652,Thoracotomy; with control of traumatic hemorrhage and/or repair of lung tear,32110
+653,Thoracotomy; with open intrapleural pneumonolysis,32124
+654,"Thoracotomy; with cyst(s) removal, includes pleural procedure when performed",32140
+655,"Thoracotomy; with resection-plication of bullae, includes any pleural procedure when performed",32141
+656,Pleural scarification for repeat pneumothorax,32215
+657,"Decortication, pulmonary (separate procedure); total",32220
+658,"Pleurectomy, parietal (separate procedure)",32310
+659,"Removal of lung, pneumonectomy; with resection of segment of trachea followed by broncho-tracheal anastomosis (sleeve pneumonectomy)",32442
+660,"Removal of lung, other than pneumonectomy; single lobe (lobectomy)",32480
+661,"Removal of lung, other than pneumonectomy; 2 lobes (bilobectomy)",32482
+662,"Removal of lung, other than pneumonectomy; with circumferential resection of segment of bronchus followed by broncho-bronchial anastomosis (sleeve lobectomy)",32486
+663,"Removal of lung, other than pneumonectomy; with all remaining lung following previous removal of a portion of lung (completion pneumonectomy)",32488
+664,Resection and repair of portion of bronchus (bronchoplasty) when performed at time of lobectomy or segmentectomy (List separately in addition to code for primary procedure),32501
+665,"Resection of apical lung tumor (eg, Pancoast tumor), including chest wall resection, rib(s) resection(s), neurovascular dissection, when performed; without chest wall reconstruction(s)",32503
+666,"Resection of apical lung tumor (eg, Pancoast tumor), including chest wall resection, rib(s) resection(s), neurovascular dissection, when performed; with chest wall reconstruction",32504
+667,"Thoracotomy; with therapeutic wedge resection (eg, mass or nodule), each additional resection, ipsilateral (List separately in addition to code for primary procedure)",32506
+668,Thoracotomy; with diagnostic wedge resection followed by anatomic lung resection (List separately in addition to code for primary procedure),32507
+669,"Thoracoscopy; with diagnostic biopsy(ies) of lung nodule(s) or mass(es) (eg, wedge, incisional), unilateral",32608
+670,Thoracoscopy; with biopsy(ies) of pleura,32609
+671,"Thoracoscopy, surgical; with total pulmonary decortication, including intrapleural pneumonolysis",32652
+672,"Thoracoscopy, surgical; with resection-plication of bullae, includes any pleural procedure when performed",32655
+673,"Thoracoscopy, surgical; with excision of mediastinal cyst, tumor, or mass",32662
+674,"Thoracoscopy, surgical; with therapeutic wedge resection (eg, mass, nodule), initial unilateral",32666
+675,"Thoracoscopy, surgical; with therapeutic wedge resection (eg, mass or nodule), each additional resection, ipsilateral (List separately in addition to code for primary procedure)",32667
+676,"Thoracoscopy, surgical; with removal of two lobes (bilobectomy)",32670
+677,"Thoracoscopy, surgical; with removal of lung (pneumonectomy)",32671
+678,"Thoracoscopy, surgical; with resection-plication for emphysematous lung (bullous or non-bullous) for lung volume reduction (LVRS), unilateral includes any pleural procedure, when performed",32672
+679,Repair lung hernia through chest wall,32800
+680,Open closure of major bronchial fistula,32815
+681,"Thoracoplasty, Schede type or extrapleural (all stages);",32905
+682,"Pneumonolysis, extraperiosteal, including filling or packing procedures",32940
+683,"Pneumothorax, therapeutic, intrapleural injection of air",32960
+684,"Mediastinotomy with exploration, drainage, removal of foreign body, or biopsy; cervical approach",39000
+685,"Mediastinotomy with exploration, drainage, removal of foreign body, or biopsy; transthoracic approach, including either transthoracic or median sternotomy",39010
+686,Resection of mediastinal cyst,39200
+687,Resection of mediastinal tumor,39220
+688,"Repair, laceration of diaphragm, any approach",39501
+689,"Resection, diaphragm; with complex repair (eg, prosthetic material, local muscle flap)",39561
+690,Transection or avulsion of; phrenic nerve,64746
+691,"Incision and drainage of thyroglossal duct cyst, infected",60000
+692,"Excision of cyst or adenoma of thyroid, or transection of isthmus",60200
+693,"Partial thyroid lobectomy, unilateral; with or without isthmusectomy",60210
+694,"Partial thyroid lobectomy, unilateral; with contralateral subtotal lobectomy, including isthmusectomy",60212
+695,"Thyroidectomy, total or complete",60240
+696,"Thyroidectomy, total or subtotal for malignancy; with radical neck dissection",60254
+697,"Thyroidectomy, removal of all remaining thyroid tissue following previous removal of a portion of thyroid",60260
+698,"Thyroidectomy, including substernal thyroid; sternal split or transthoracic approach",60270
+699,Excision of thyroglossal duct cyst or sinus,60280
+700,Parathyroidectomy or exploration of parathyroid(s),60500
+701,"Parathyroidectomy or exploration of parathyroid(s); with mediastinal exploration, sternal split or transthoracic approach",60505
+702,Parathyroid autotransplantation (List separately in addition to code for primary procedure),60512
+703,Closure of vesicouterine fistula; with hysterectomy,51925
+704,"Vaginal hysterectomy, for uterus 250 g or less",58260
+705,"Vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s), and/or ovary(s)",58262
+706,"Vaginal hysterectomy, for uterus 250 g or less; with repair of enterocele",58270
+707,"Vaginal hysterectomy, for uterus 250 g or less;",58275
+708,"Vaginal hysterectomy, for uterus greater than 250 g",58290
+709,"Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",58291
+710,"Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s), with repair of enterocele",58292
+711,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less",58550
+712,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less; with removal of tubes(s) and /or ovary(s)",58552
+713,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g",58553
+714,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",58554
+715,"Neuroendoscopy, intracranial, for placement or replacement of ventricular catheter and attachment to shunt system or external drainage (List separately in addition to code for primary procedure)",62160
+716,Ventriculocisternostomy (Torkildsen type operation),62180
+717,"Creation of shunt; subarachnoid/subdural-peritoneal, -pleural, other terminus",62192
+718,"Ventriculocisternostomy, third ventricle; stereotactic, neuroendoscopic method",62201
+719,"Creation of shunt; ventriculo-atrial, -jugular, -auricular",62220
+720,"Creation of shunt; ventriculo-peritoneal, -pleural, other terminus",62223
+721,"Replacement or irrigation, ventricular catheter",62225
+722,"Replacement or revision of cerebrospinal fluid shunt, obstructed valve, or distal catheter in shunt system",62230
+723,Removal of complete cerebrospinal fluid shunt system; without replacement,62256
+724,Exploration of penetrating wound (separate procedure); abdomen/flank/back,20102
+725,"Repair, diaphragmatic hernia (other than neonatal), traumatic; chronic",39541
+726,"Repair, paraesophageal hiatal hernia (including fundoplication), via laparotomy, except neonatal; without implantation of mesh or other prosthesis",43332
+727,Enterolysis (freeing of intestinal adhesion) (separate procedure),44005
+728,"Laparoscopy, surgical, enterolysis (freeing of intestinal adhesion) (separate procedure)",44180
+729,"Exclusion of small intestine from pelvis by mesh or other prosthesis, or native tissue (eg, bladder or omentum)",44700
+730,Excision of lesion of mesentery (separate procedure),44820
+731,Suture of mesentery (separate procedure),44850
+732,Reopening of recent laparotomy,49002
+733,"Exploration, retroperitoneal area with or without biopsy(s) (separate procedure)",49010
+734,"Drainage of peritoneal abscess or localized peritonitis, exclusive of appendiceal abscess, open",49020
+735,"Drainage of retroperitoneal abscess, open",49060
+736,"Excision or destruction, open, intra-abdominal tumors, cysts or endometriomas, 1 or more peritoneal, mesenteric, or retroperitoneal primary or secondary tumors; largest tumor 5 cm diameter or less",49203
+737,"Umbilectomy, omphalectomy, excision of umbilicus (separate procedure)",49250
+738,"Omentectomy, epiploectomy, resection of omentum (separate procedure)",49255
+739,"Laparoscopy, abdomen, peritoneum, and omentum, diagnostic, with or without collection of specimen(s) by brushing or washing (separate procedure)",49320
+740," Laparoscopy, surgical; with biopsy (single or multiple) ",49321
+741,"Laparoscopy, surgical; with insertion of tunneled intraperitoneal catheter",49324
+742,"Laparoscopy, surgical; with revision of previously placed intraperitoneal cannula or catheter, with removal of intraluminal obstructive material if performed",49325
+743,Removal of peritoneal foreign body from peritoneal cavity,49402
+744,"Insertion of tunneled intraperitoneal catheter, with subcutaneous port (ie, totally implantable)",49419
+745,Insertion of peritoneal-venous shunt,49425
+746, Revision  of peritoneal-venous shunt,49426
+747,"Suture, secondary, of abdominal wall for evisceration or dehiscence",49900
+748,"Omental flap, intra-abdominal (List separately in addition to code for primary procedure)",49905
+749,Free omental flap with microvascular anastomosis,49906
+750,"Laparotomy, for staging or restaging of ovarian, tubal, or primary peritoneal malignancy (second look), with or without omentectomy, peritoneal washing, biopsy of abdominal and pelvic peritoneum, diaphragmatic assessment with pelvic and limited para-aortic lymphadenectomy",58960
