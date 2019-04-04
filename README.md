@@ -22,7 +22,7 @@ In this project we were asked to populate a database with the following requirem
 
 ## Creating the Data
 
-Python scripts were used to generate the 10,000 patients using the Python package ```Faker```.  This ensured person's identification information was realistic (instead of gobbledygook).
+Python scripts were used to generate the 10,000 patients using the Python package ```Faker``` (https://faker.readthedocs.io/en/master/).  This ensured person's identification information was realistic (instead of gobbledygook).
 
 Faker was also used to generate diagnoses and treatments -- however in this case, the source files are real ICD-9 codes (which are used by the healthcare industry): http://www.icd9data.com
 
