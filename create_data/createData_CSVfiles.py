@@ -5,7 +5,7 @@ Created on Sat Aug 11 09:37:17 2018
 @author: Marnie Biando
 
 NOSQL PROJECT 2 - SmallTown Hospital
-version 3: combine patients & doctors into one table
+Version 3: combine patients & doctors into one table
 
 Create all csv files:
     users.csv
@@ -15,9 +15,7 @@ Create all csv files:
     diagnoses.csv
     pat2doc.csv
     pat2ill.csv
-    ill2treat.csv
-
-FUTURE UPDATE: make path to where CSV files should be stored a variable    
+    ill2treat.csv   
     
 """
 
@@ -126,17 +124,17 @@ doctor_list=['doc_id', 'user_id']
 # Create users dataframe
 df_users = pd.DataFrame(user_rows, columns=user_list)
 df_users = df_users.set_index('user_id')
-df_users.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/users.csv')           
+df_users.to_csv('../data/users.csv')           
 
 # Create  patients dataframe
 df_patients = pd.DataFrame(patient_rows, columns=patient_list)
 df_patients = df_patients.set_index('pat_id')  
-df_patients.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/patients.csv')      
+df_patients.to_csv('../data/patients.csv')      
 
 # Create  doctors dataframe
 df_doctors = pd.DataFrame(doctors_rows, columns=doctor_list)
 df_doctors = df_doctors.set_index('doc_id') 
-df_doctors.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/doctors.csv')    
+df_doctors.to_csv('../data/doctors.csv')    
 
 
 """
@@ -192,13 +190,13 @@ for index, row in df_patients.iterrows():
 df_pat2doc = pd.DataFrame(pat2doc_rows, columns=['pat_id','doc_id','doc_name'])
 df_pat2doc = df_pat2doc.set_index('pat_id') 
 # Write out pat2doc many-to-many to csv:
-df_pat2doc.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/pat2doc.csv')
+df_pat2doc.to_csv('../data/pat2doc.csv')
 
 # Create user2user mapping (for neo4J)
 user2user_list = ['userid1', 'doc_name', 'userid2', 'pat_name']
 df_user2user = pd.DataFrame(user2user_rows, columns=user2user_list)
 # Write out user2user many-to-many to csv:
-df_user2user.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/user2user_neo4j.csv',
+df_user2user.to_csv('../data/user2user_neo4j.csv',
                   index=False)
 
 print("Illness data loaded into CSV format....")
@@ -215,7 +213,7 @@ Variables: num_illnesses
 print("")
 print("=== Creating illness CSV file ===")
 
-filename = '/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/ICD-9-Diagnoses.csv'
+filename = '../data/ICD-9-Diagnoses.csv'
 nlines_in_file = 14568
 
 lines2skip = np.random.choice(np.arange(1,nlines_in_file+1), 
@@ -235,7 +233,7 @@ df_ill.rename(columns={"ILL_ID": "ill_id",
 df_ill = df_ill.set_index('ill_id')
 
 # Write out illnesses to csv:
-df_ill.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/illnesses.csv')
+df_ill.to_csv('../data/illnesses.csv')
 print("Illness data loaded into CSV format....")
 print("Total number of illnesses sampled: ", num_illnesses)
 
@@ -248,7 +246,7 @@ Variables: num_treatments
 print("")
 print("=== Creating treatment CSV file ===")
 
-filename = '/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/ICD-9-Treatments.csv'
+filename = '../data/ICD-9-Treatments.csv'
 nlines_in_file = 1123
 
 lines2skip = np.random.choice(np.arange(1,nlines_in_file+1), 
@@ -271,7 +269,7 @@ df_treat.rename(columns={"id": "treat_id",
 df_treat = df_treat.set_index('treat_id')
 
 # Write out udpated data to csv:
-df_treat.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/treatments.csv')
+df_treat.to_csv('../data/treatments.csv')
 print("Treatment data loaded into CSV format....")
 
 
@@ -322,12 +320,12 @@ ill2treat_list=['ill_id', 'treat_id', 'treat_desc', 'pat_id','user_id']
 # Convert list of patient to illness mappings from a dataframe to CSV file     
 df_pat2ill = pd.DataFrame(pat2ill_rows, columns=pat2ill_list)
 df_pat2ill = df_pat2ill.set_index('pat_id')
-df_pat2ill.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/pat2ill.csv')    
+df_pat2ill.to_csv('../data/pat2ill.csv')    
 
 # Convert list of illness to treatments from a dataframe to CSV file     
 df_ill2treat = pd.DataFrame(ill2treat_rows, columns=ill2treat_list)
 df_ill2treat = df_ill2treat.set_index('ill_id')
-df_ill2treat.to_csv('/Users/sgourosfamily/GitHub_Repositories/NoSQL_Project2/data/ill2treat.csv')    
+df_ill2treat.to_csv('../data/ill2treat.csv')    
 
 print("")
 print("Total number patient-to-illness relationships created: ", len(df_pat2ill)) 

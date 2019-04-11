@@ -5,14 +5,16 @@ Created on Sat Aug 11 07:23:18 2018
 @author: Marnie Biando
 
 NOSQL PROJECT 2 - SmallTown Hospital
-LOAD ICD9 Diagnoses CSV file, sample 1,000 then generate subset CSV
+LOAD ICD9 Diagnoses CSV file, sample 1,000 diagnoses then generate subset CSV
 
-enumerated output file at ./nosql-db/Project2/data
 """
 
+import os
 import pandas as pd
 import numpy as np
-import os
+
+print("")
+print("=== Creating diagnoses CSV file ===")
 
 # get data from sibling directory
 def getfile(sibling_dir, filename):
@@ -35,7 +37,7 @@ lines2skip = np.random.choice(np.arange(1,nlines_in_file+1),
 print("...now retrieving file: ", ICD_9_file)
 df = pd.read_csv(getfile(sibling_dir, ICD_9_file), skiprows=lines2skip)
 
-print(nlinesrandomsample,  "rows sampled from ICD9 DIAGNOSES file: ", ICD_9_file)
+print(nlinesrandomsample,  "rows sampled from ICD9 Diagnoses file: ", ICD_9_file)
 print("")
 
 # add a numbered index
