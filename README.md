@@ -16,7 +16,7 @@ In this project we were asked to populate a database with the following requirem
 2. 10% of the patients must be doctors.
 3. Doctors have a 35% chance of also being a patient.
 4. Create a minimum of 1,000 illnesses.
-5. Every patient will have 0, 1, 2, or 3 illnesses.  Probabilities are equally distributed.
+5. Every patient will contract 0, 1, 2, or 3 illnesses with equal probabilities.
 6. If a patient has 1 or more illnesses, s/he must have 1 or more treatments assigned to each illness.
 7. The maximum number of treatments per illness is up to the creator.
 
@@ -27,3 +27,11 @@ Python scripts were used to generate the 10,000 patients using the Python packag
 Faker was also used to generate diagnoses and treatments -- however in this case, the source files are real ICD-9 codes (which are used by the healthcare industry): http://www.icd9data.com
 
 See Python scripts -- the random package was used to calculate probabilities (each doctor had a 35% probability of also being a patient), whether a patient was assigned 0-3 illnesses (these were equally weighted) and finally, randomly choosing 1000 illnesses from the ICD-9 diagnosis file.
+
+
+## Building the SQL database
+1. Database schema was created using files located in the Schemas folder
+2. CSV files were loaded into a postgreSQL database
+
+## Sample Queries
+<TBA>
